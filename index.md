@@ -1,22 +1,25 @@
-This website started as a way to share our early research regarding the COVID-19 pandemic. We were trying to write down for ourselves and our friends what to do when so many people were going to get sick. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and information for various stages of illness in one place. We consulted with nurses and doctors, but this site was created by the non-medically trained, trying to puzzle together what makes sense in our new normal. 
+Na počátku těchto stránek stála naše vlastní potřeba přehledně uspořádaných informací o pandemii COVID-19. Snažili jsme se sami pro sebe a pro naše přátele sepsat, co dělat v případě nemoci. Velká část uvedených informací se může jevit jako prostý selský rozum, který netřeba předávat jako velká moudra. Nicméně přehledný checklist a informace pohromadě na jednom místě nejsou nikdy na škodu. Uváděné informace byly konzultovány s odborníky, ale my odborníci nejsme. My se jen pokoušíme najít tu nejlepší cestu naší novou realitou. 
 
 {{ site.data.tags.disclaimer.begin }}
 
-## PLEASE READ THIS
+## LIDÉ ČTĚTE
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+Aby bylo jasno: **NASLOUCHEJTE LOKÁLNÍM AUTORITÁM, DOKTORŮM A SESTRÁM** v případech, kdy máte na vybranou mezi jejich odborným názorem a a něčím, co jste našli na internetu.
 
-Information on this website is provided for informational purposes only and is not meant to be a substitute for advice provided by a doctor or qualified healthcare professional. Patients should not use the information provided here for diagnosing a health condition, problem or disease. Patients should always consult with a doctor or other healthcare professional for medical advice or information about diagnosis and treatment.
+Tyto webové stránky mají pouze informativní charakter a nejsou zamýšleny jako náhrada konzultace s odborným zdravotnickým personálem. 
+Neužívejte námi zvěřejněné informace k (samo)diagnostice. Pokud potřebujete informace ohledně diagnózy a léčebných postupů, vždy vyhledejte konzultaci s lékařem či jiným specialistou v oblasti zdravotnictví. 
 
-**IN EMERGENCIES, DIAL YOUR LOCAL EMERGENCY TELEPHONE NUMBER.**
+
+**V PŘÍPADĚ NOUZE VOLEJTE LOKÁLNÍ TÍSŇOVÉ LINKY.**
 
 {{ site.data.tags.disclaimer.end }}
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. Whether the virus has caused total crisis where you are or not: It is time to think and prepare.
+Tyhle stránky začaly vznikat v Berlíně v druhém březnovém týdnu 2020. O novém viru toho stále moc nevíme, ale počet nakažených, nemocných a mrtvých nezadržitelně stoupá - momentálně je nejvíc zasažena Itálie. Ať už kolem vás propukla krize nebo ne: Je čas se na ni připravit. 
 
 ![](/images/virus.png)
 
-This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come.
+Vycházíme z toho, že v nadcházejících měsících bude nezvykle mnoho lidí nemocných a víc lidí než obvykle se bude o nemocné kolem sebe starat. Doufejme v to nejlepší, ale držme se předpokladu, že nemocnice budou vytížené. Hrozí i to, že bude třeba léčit podomácku a v domácích podmínkách stavy, které by normálně byly řešeny hospitalizací. Doufáme, že uvedené informace vám dodají odvahy přeprat tuhle nemoc a tímhle společným informovaným bojem trochu ulevíme zatíženému zdravotnickému systému. Stejně tak ale doufáme, že vám poskytnuté informace pomohou rozpoznat ten stav, kdy je lékař potřeba. Čím víc lidí bude tyhle věci znát, tím spíš tuhle krizi zvládneme. 
+
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
 
@@ -24,9 +27,10 @@ This guide is based on the assumption that in the coming months, more people tha
 
 {{ site.data.tags.breakout.begin }}
 
-### What this guide is not...
+### O čem tyhle stránky nejsou...
 
-We try to provide a large amount of *general* helpful tips for dealing with COVID-19 during the various stages in which it might affect your household. **What we cannot do is provide up-to-date information that is specific to where you are.** We will try to tell you when we think you need to seek up-to-date local information in text boxes such as this.
+Zveřejňujeme *obecné* tipy jak zvládnout COVID-19 v různých situacích a stádiích nemoci. **Nemůžeme poskytovat aktuální informace a informace specifické pro vaši lokalitu.**
+Zkusíme vás upozornit v momentech, kdy bude nutné vyhledat aktuální lokální informace v boxech jako je tento. 
 
 Note that any advice from official sources you may find could be outdated as soon as a few days after it is issued, so always try to find the latest guidance and advice you can. Refer to local broadcast media and **trusted** information on the internet. Your local health authorities know the situation on the ground where you are, and should be talking to the public through the media.
 
