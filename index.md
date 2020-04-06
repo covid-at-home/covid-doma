@@ -32,7 +32,7 @@ Vycházíme z toho, že v nadcházejících měsících bude nezvykle mnoho lid�
 Zveřejňujeme *obecné* tipy jak zvládnout COVID-19 v různých situacích a stádiích nemoci. **Nemůžeme poskytovat aktuální informace a informace specifické pro vaši lokalitu.**
 Zkusíme vás upozornit v momentech, kdy bude nutné vyhledat aktuální lokální informace v boxech jako je tento. 
 
-Mějte na paměti, že každá informace z oficiálních zdrojů může být zastaralá už pár dní po zveřejnění. Pokaždé pátrejte po zprávách co nejmladších. Dávejte přednost lokálním zpravodajstvím. Zdravotničtí odborních ve vašem okolí znají místní situaci a přizpůsobují tomu i informace a rady, které poskytují do médií. 
+Mějte na paměti, že každá informace z oficiálních zdrojů může být zastaralá už pár dní po zveřejnění. Pokaždé pátrejte po zprávách co nejmladších. Dávejte přednost lokálním zpravodajstvím. Odborníci ve vašem okolí znají místní situaci a přizpůsobují tomu i informace a rady, které poskytují do médií. 
 
 K vidění jsou různé státní reakce, nová opatření a dočasná řešení. Kapacity jsou omezné, což se projevuje jak v množství ochraných pomůcek tak přehlceností asistenčních linek a hlavně testovacích center. **Bohužel, ne vždy bude pomoc dostupná.** My přispějeme těmi nejlepšími použitelnými informacemi, které seženeme. Prosíme, berte tyto stránky jako další zdroj PO informacích od vašich lokálních odborníků. 
 
