@@ -1,21 +1,22 @@
-## Level 1 -- Healthy
+## Level 1 -- Zdraví
 
-### Don't Get Infected - And Don't Infect Others
+### Zabraňte nákaze - sebe i ostatních
 
-You might feel fine. But the virus can spread before you show symptoms. Some people can spread it without ever showing symptoms. Follow the instructions from authorities. This includes some of the by-now familiar guidelines for social distancing:
+Ikdyž je vám třeba dobře. Tento virus můžete šířit, aniž byste pociťovali příznaky. Poslouchejte hygienická doporučení ministerstva zdravotnictví. Ta obsahují dnes už známé zásady "social distancing": 
 
-#### Stay home
-* Work and study from home when possible.
-* Use alternatives to in-person meetings (e.g., video or voice calls) when possible. 
-* Avoid crowds and unnecessary travel. If you must go shopping, do it when stores are less likely to be busy. If you must be in a crowd, try to keep your [safe distance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) of at least 1.5 meters (or around five feet) from others. Move away from anyone who seems to be ill (e.g., is coughing or appears feverish). 
+#### Zůstaňte doma
+* Jestli to jen trochu jde, pracujte a studujte z domova. 
+* Schůzky nahraďte jakoukoli formou bez osobního kontaktu - emailem, telefonem, online konferencí... 
+* Vyhýbejte se davům. Necestuje, pokud to není absolutně nutné. Pokud potřebujete nakoupit, snažte se trefit méně vytížené časy obchodu. 
+Pokud se vyskytnete v davu, udržujte si [odstup](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public) aspoň 1.5 metru. Zásadně se vyhýbejte lidem, kteří vykazují příznaky (např. pokud někdo kašle). 
 
-#### Use appropriate hygiene
-* Change your greetings. Instead of a handshake, hug, or kiss(es), try waving or bowing from a distance, namaskar 🙏 or bumping elbows or feet.
-* Your eyes, nose, and mouth are possible places for the virus to enter your body. So wash your hands before touching your face. Don't touch your face while outside.
-* Take care with handwashing hygiene. 
-  * Wash your hands thoroughly for 20 seconds with soap and water as soon as you come home, before preparing food or eating, and after using the toilet. 
-  * Use soap and water, not hand sanitizer, when possible: It is more [reliable](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants) because you can easily cover every wrinkly bit of skin on your entire hand with enough soapy water to vanquish the virus. 
-  * Watch a video or two on [proper handwashing technique](https://www.youtube.com/results?search_query=proper+handwashing+technique) just to be sure you are using it. 
+#### Dodržujte hygienické zásady
+* Budeme muset na chvíli zapomenout na objímání, líbání i potřesení rukou při pozdravu. Je to ale super příležitost zapojit fantazii a vymyslet jiné formy uvítání a pozdravu. Co třeba poklona, "namaste" 🙏, ťuknutí loktem (loketbump) nebo botou? Je to na vás.
+* Oči, nos a ústa jsou vstupní bránou pro virus. Proto si je každý musí chránit. Tváře se neustále dotýkáme, proto je potřeba mýt si ruce mýdlem. Je to prostá a zároveň jedna z nejúčinějších obran proti nákaze. Pokud jste venku, snažte se tváře nedotýkat vůbec. 
+* Myjme si tedy ruce - ale pořádně. 
+  * Správné umytí rukou by mělo trvat minimálně 20 sekund, obsahovat vodu a mýdlo. A to vždy okamžitě po příchodu domů, před přípravou jídla nebo stolováním a po toaletě. 
+  * Dávejte přednost vodě a mýdlu před dezinfekčním gelem: Je to [spolehlivější](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants) Dezinfekční gel se hodí do venkovních podmínek jako první pomoc. Doma ale dosáhneme větší čistoty mýdlem. 
+  * Zkoukněte video o [správné technice mytí rukou](https://www.youtube.com/results?search_query=proper+handwashing+technique) 
   * Use moisturizer as needed, too: [Keeping skin healthy](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html) makes disinfection more effective and reduces the risk of infection from other germs, because dry and damaged skin is more vulnerable to infection. 
 * Regularly clean doorknobs, light switches, table surfaces, keyboards, cell phones, and other things people frequently touch. If the items or surfaces are dirty, first clean them with soapy water, removing any visible dirt. Then, apply disinfectant (e.g., your favorite household cleaner, diluted bleach water or hydrogen peroxide solution). If surfaces are already clean, just apply disinfectant. If you are not ill and no one around you has been ill, weekly cleaning is fine. Otherwise, clean high-touch surfaces daily if possible. 
 * Cough and sneeze into your elbow, not into your hand or unprotected. 
