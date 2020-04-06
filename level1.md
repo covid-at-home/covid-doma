@@ -34,17 +34,17 @@ Pokud se vyskytnete v davu, udržujte si [odstup](https://www.who.int/emergencie
 
 {{ site.data.tags.breakout.begin }}
 
-Here you will need up-to-date local information. Walks outside may well be illegal where you are (for a time), while much of this advice may actually be mandatory. You may be asked or required to do other things not on this list, like [having your temperature taken before buying groceries](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Let up-to-date, local information guide you where there are conflicts between that and this text.
+Tohle je přesně jedna z těch rad, kdy je třeba držet se lokálních informací. Chodit ven je ve vašem okolí možná (dočasně) ilegální. Roušky jsou třeba naopak povinné. Možná jsou kolem vás další pravidla, která nejsou na našem senzamu. Může to být třeba [povinné měření teploty před obchodem](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says). Vždy se držte pravidel z lokálních médií. 
 
 {{ site.data.tags.breakout.end }}
 
-### Stay Healthy
+### Zůstaňte zdraví
 
 ![](/images/situps.png)
 
-On top of this, you can do things to stay as healthy as possible:
+Věnujte se péči o sebe. Existují totiž další způsoby, jak posílit imunitu a zůstat zdraví:
 
-* **Improve your air quality.** Avoid second-hand smoke, mold, and other sources of indoor air pollution, which weakens your lungs and [increases your vulnerability to infection](https://www.nytimes.com/2020/03/27/climate/climate-pollution-coronavirus-lungs.html). Ventilate your rooms frequently, including especially [while cooking](https://www.theguardian.com/environment/2019/feb/17/cooking-sunday-roast-causes-indoor-pollution-worse-than-delhi).
+* **Dopřejte si čerstvý vzduch.** Zakouřené podmínky, plísně a další znečistění vzduchu oslabují naše plíce a [zvyšují náchylnost k infekcím](https://www.nytimes.com/2020/03/27/climate/climate-pollution-coronavirus-lungs.html). Pravidelně větrejte, zvlášť [pokud vaříte](https://www.theguardian.com/environment/2019/feb/17/cooking-sunday-roast-causes-indoor-pollution-worse-than-delhi).
 * Eat appropriate amounts of nutrient-rich, healthy food. Include at least some carbohydrates (e.g., bread, potatoes, pasta, rice, etc). Vitamins D ("the sunshine vitamin") and C can be especially helpful in preventing or mitigating the effects of respiratory infections. 
 * Drink enough, mostly water. Your urine should be very light-colored, never dark yellow.
 * **Get regular exercise**. If it is recommended or required to stay indoors, find ways to get moving at home: Dance to favorite songs with friends over video-chat, join online yoga or other exercise classes, or try simple core bodyweight exercises like push-ups, sit-ups, and squats combined with simple stationary aerobic exercises like jumping jacks, hula hooping, and skipping. 
