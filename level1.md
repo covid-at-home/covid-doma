@@ -1,4 +1,4 @@
-## Level 1 -- Zdraví
+## Level 1 -- Když jsme zdraví
 
 ### Zabraňte nákaze - sebe i ostatních
 
@@ -12,25 +12,25 @@ Pokud se vyskytnete v davu, udržujte si [odstup](https://www.who.int/emergencie
 
 #### Dodržujte hygienické zásady
 * Budeme muset na chvíli zapomenout na objímání, líbání i potřesení rukou při pozdravu. Je to ale super příležitost zapojit fantazii a vymyslet jiné formy uvítání a pozdravu. Co třeba poklona, "namaste" 🙏, ťuknutí loktem (loketbump) nebo botou? Je to na vás.
-* Oči, nos a ústa jsou vstupní bránou pro virus. Proto si je každý musí chránit. Tváře se neustále dotýkáme, proto je potřeba mýt si ruce mýdlem. Je to prostá a zároveň jedna z nejúčinějších obran proti nákaze. Pokud jste venku, snažte se tváře nedotýkat vůbec. 
+* Oči, nos a ústa jsou vstupní bránou pro virus. Musíme si je tedy chránit. Tváře se neustále dotýkáme, proto je potřeba mýt si ruce mýdlem. Je to prostá a zároveň jedna z nejúčinějších obran proti nákaze. Pokud jste venku, snažte se tváře nedotýkat vůbec. 
 * Myjme si tedy ruce - ale pořádně. 
   * Správné umytí rukou by mělo trvat minimálně 20 sekund, obsahovat vodu a mýdlo. A to vždy okamžitě po příchodu domů, před přípravou jídla nebo stolováním a po toaletě. 
   * Dávejte přednost vodě a mýdlu před dezinfekčním gelem: Je to [spolehlivější](https://www.theguardian.com/commentisfree/2020/mar/12/science-soap-kills-coronavirus-alcohol-based-disinfectants) Dezinfekční gel se hodí do venkovních podmínek jako první pomoc. Doma ale dosáhneme větší čistoty mýdlem. 
   * Zkoukněte video o [správné technice mytí rukou](https://www.youtube.com/results?search_query=proper+handwashing+technique) 
-  * Use moisturizer as needed, too: [Keeping skin healthy](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html) makes disinfection more effective and reduces the risk of infection from other germs, because dry and damaged skin is more vulnerable to infection. 
-* Regularly clean doorknobs, light switches, table surfaces, keyboards, cell phones, and other things people frequently touch. If the items or surfaces are dirty, first clean them with soapy water, removing any visible dirt. Then, apply disinfectant (e.g., your favorite household cleaner, diluted bleach water or hydrogen peroxide solution). If surfaces are already clean, just apply disinfectant. If you are not ill and no one around you has been ill, weekly cleaning is fine. Otherwise, clean high-touch surfaces daily if possible. 
-* Cough and sneeze into your elbow, not into your hand or unprotected. 
+  * Starejte se o kůži rukou: [udržujte ji zdravou](https://www.washingtonpost.com/gdpr-consent/?next_url=https%3a%2f%2fwww.washingtonpost.com%2flifestyle%2fwellness%2fhand-washing-coronavirus-moisturizer-dry%2f2020%2f03%2f06%2fede43874-5fcb-11ea-b014-4fafa866bb81_story.html) Vysušená, popraskaná nebo poraněná kůže je mnohem náchylnější k infekcím. 
+* Pravidelně dezinfikujte kliky, vypínače, stoly, klávesnice, telefony a všechny domácí plochy, kterých se často dotýkáte. Pokud je třeba klika viditelně špinavá, nejdříve ji otřete od nečistot, potom dezinfikujte (domácími dezinfekčními prostředky nebo roztokem peroxidu vodíku). Pokud jste doma všichni zdraví, jednou týdně to stačí. Pokud ne, zaveďte čištění povrchů každý den. 
+* Kašlejte a kýchejte do rukávu. Ne do ruky. Ne do prostoru. 
 
-#### Take care around food
-* Instead of going to restaurants, cook and eat at home. 
-* Instead of having food or groceries delivered or delivering them to another person at home with direct contact, arrange to have them left or to leave them outside the door. 
-* Instead of meeting friends for lunch or coffee, have a video-chat or coordinate a walk to the grocery store while keeping your safe distance. 
+#### Jídlo
+* Nechďte do restaurací, vařte si doma. Není to těžké a je to fajn. Ti, kteří nevaří, třeba objeví nový koníček. 
+* Využívejte doručovacích služeb při nákupu jídla. Snažte se zavést systém, kdy s doručovatelem nepřijdete do kontaktu. Zásilky se dají nechat za dveřmi. 
+* Pivo s kamarády vyměnte za pivo u video-chatu. Kontakt s kamarády udržujte online nebo telefonem. 
 
-#### Take care going outside
-* [Wear a mask](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo) when you go outside. You may also wish to wear disposable gloves, for instance, while buying food or medicines in shops where you will need to touch surfaces many other people may have touched. For more information on personal protective equipment such as this, see this [list](https://covid-at-home.info/shopping). 
-* Wash your hands and change your clothes when you get home. If you've been around someone who seemed ill, wash them at 60° Celsius (140° Fahrenheit). 
-* Instead of taking public transportation, walk or bike wherever you can. If you must take public transport, again, keep your safe distance from others and move away from anyone who is ill. 
-* Instead of exercising inside, go outside for a walk or run in your neighborhood if weather permits, while keeping your safe distance from other people. 
+#### Když jdete ven
+* [Noste roušku](https://www.youtube.com/watch?time_continue=209&v=HhNo_IOPOtU&feature=emb_logo). Pokud musíte nakupovat osobně, nebo jít třeba do lékárny, není vůbec od věci použít jednorázové rukavice. List dalších doporučení pro soobní ochranu najdete [zde](https://covid-at-home.info/shopping). 
+* Když přijdete domů, převlékněte se a umyjte si ruce. Oblečení z venku perte nejlépe na 60°C - pokud to materiál dovolí.  
+* MHD využívejte co nejméně. Kam to jde, jeďte na kole nebo se projděte. Pokud není jiná možnost, i v MHD si udržujte odstup od ostatních a vyhýbejte se všem, kteří působí nemocně. 
+* Jednou za čas se určitě vyvětrat běžte. Každý potřebuje čerstvý vzduch a sluneční svit. Stačí si jen držet odstup od ostatních venku. 
 
 {{ site.data.tags.breakout.begin }}
 
