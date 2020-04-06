@@ -52,10 +52,9 @@ Pro vědecky zaměřené jsme sestavili list [dalších zdrojů](https://covid-a
 
 ### Známá fakta: 
 
-* COVID-19 je skutečnou hrozbou. 
-* Je to nemoc, kterou způsobuje virus SARS-CoV-2. 
+* COVID-19 je onemocnění, které způsobuje virus SARS-CoV-2. 
 * SARS-CoV-2 zmutoval a přeorientoval se ze svého původního zvířecího hostitele na člověka. 
-* COVID-19 je závažné onemocnění. 
+* COVID-19 je závažné onemocnění, protože: 
   * SARS-CoV-2 se přenáší mnohem [snáz než SARS](https://www.nature.com/articles/d41586-020-00660-x). 
   * Narozdíl od sezónní chřipky běžně způsobuje pneumonii neboli zápal plic [což vám chřipka neudělá](https://www.lung.org/lung-health-diseases/lung-disease-lookup/pneumonia/what-is-the-connection). COVID-19 navíc způsobuje mnoho závažnějších komplikací, které vyžadují hospitalizaci - jako ARDS (acute respiratory distress syndrome), srdeční příhody (zvlášť u lidí se srdečním onemocněním), plicní selhání, septický šok, poškození jater, a multiorgánové selhání. Zdá se, že toto onemocnění zabíjí [víc než 3x](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---3-march-2020) a možná až [10x víc úmrtí](https://www.reuters.com/video/watch/idOVC4M5QSF) než chřipka. (Dokud nemáme víc dat z testování, nemůžeme to přesně určit.)
   * Narozdíl od chřipky a jiných nemocí, proti COVID-19 v současnosti nemáme vakcínu řádně podloženou daty z klinických studií (Ale věřte, že se na tom dělá o sto šest!) 
