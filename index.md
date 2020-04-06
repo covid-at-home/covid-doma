@@ -1,4 +1,4 @@
-Na počátku těchto stránek stála naše vlastní potřeba přehledně uspořádaných informací o pandemii COVID-19. Snažili jsme se sami pro sebe a pro naše přátele sepsat, co dělat v případě nemoci. Velká část uvedených informací se může jevit jako prostý selský rozum, který netřeba předávat jako velká moudra. Nicméně přehledný checklist a informace pohromadě na jednom místě nejsou nikdy na škodu. Uváděné informace byly konzultovány s odborníky, ale my odborníci nejsme. My se jen pokoušíme najít tu nejlepší cestu naší novou realitou. 
+Na počátku těchto stránek stála naše vlastní potřeba přehledně uspořádaných informací o pandemii COVID-19. Snažili jsme se sami pro sebe a pro naše přátele sepsat, co dělat v případě nemoci. Velká část uvedených informací se může jevit jako prostý selský rozum, který netřeba předávat jako velká moudra. Nicméně přehledný seznam a informace pohromadě na jednom místě nejsou nikdy na škodu. Uváděné informace byly konzultovány s odborníky, ale my odborníky nejsme. My se jen pokoušíme najít tu nejlepší cestu naší novou realitou. 
 
 {{ site.data.tags.disclaimer.begin }}
 
