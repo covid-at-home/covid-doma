@@ -40,7 +40,7 @@ K vidění jsou různé státní reakce, nová opatření a dočasná řešení.
 
 {{ site.data.tags.breakout.end }}
 
-Někteří autoři těchto stránek nejsou velkými fanoušky vládních autorit, nicméně v tento moment je důvěra v autority zdravotnického systému nezbytná. V případě nesrovnalostí důvěrujte věrohodným zdrojům, jako jsou: 
+Někteří z autorů těchto stránek nejsou velkými fanoušky vládních autorit, nicméně v tento moment je důvěra v autority zdravotnického systému nezbytná. V případě nesrovnalostí důvěrujte věrohodným zdrojům, jako jsou: 
 * [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) (International)
 * [Centers for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html) (USA)
 * [National Health Service](https://www.nhs.uk/conditions/coronavirus-covid-19/) (UK) 
