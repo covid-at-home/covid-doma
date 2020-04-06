@@ -1,44 +1,45 @@
-## Make your own mask
+## Výroba roušky bez šicího stroje
 
-To make this mask, you wil need:
-  * a working printer and paper for the template
-  * fabric, 100% cotton, enough to cut 20 x 40 cm and 90 x 10 cm
-  * scissors
-  * needle and thread
-  * a few pins
-  * a clothes iron
+Budete potřebovat:
+  * vytisknutou předlohu
+  * látku ze 100% bavlny, 20 x 40 cm na masku and 90 x 10 cm na šňůrky
+  * nůžky
+  * jehlu a nit
+  * pár špendlíků
+  * žehličku
 
-#### Step 1: Print template and cut it out
+#### Step 1: Vytiskněte a vystřihněte předlohu
 
-Click on the image below to download the PDF file to print for the template and cut it out along the thick black line.
+Kliknětím na obrázek pod textem si stáhněte PDF soubor s předlohou na masku. Předlohu vytiskněte a vystřihněte podél černé čáry. 
 
 [![](/images/mask/mask-template.png)](/images/mask/mask-template.pdf)
 
-#### Step 2: cut out the squares
+#### Step 2: Nastříhejte čtverce
 
-Cut two squares the size of the template, and use the scissors to make small cuts where the cut marks on the template are to mark where the folds will be.
+Vystřihněte dva čtverce podle předlohy. Složte čtverce lícovými stranami k sobě, sešpendlete a navrch položte předlohu. Nastříhněte oba čtverce po stranách podle zobáčků v předloze. Nástřihy slouží jako označení budoucích překladů. 
 
 ![](/images/mask/cut.png)
 
 &nbsp;
 
-#### Step 3: Stitch squares together
+#### Step 3: Sešijte čtverce dohromady
 
 ![](/images/mask/stitch.png)
 
-Put the squares on top of eachother with the nice-looking printed sides facing eachother, using the pins to fix them im place. Then stitch along the lines marked with red dotted lines in the photo. After both sides are done **turn inside out** so the pretty sides face out and the ragged edges on top and bottom are hidden.
+Sešijte čtverce dohromady dvěma švy na protilehlých stranách - těch bez nástřihů (jak ukazují červené čáry na obrázku). **Otočte "naruby"** tak, aby lícové strany koukaly ven. 
+
 
 &nbsp;
 
-#### Step 4: Fold
+#### Step 4: Vytvořte překlady
 
 ![](/images/mask/fold.png)
  
-Fold over where the first cut is and iron the fold. then fold the other way and iron the second fold. Continue until you have it like in the rightmost photo. Then put that folded stack aside.
+Přehněte v úrovni první značky a přežehlete, aby vznikl sklad. Vzniklý sklad posuňte do úrovně druhé značky a znovu přežehlete. Výsledkem bude první překlad. Zopakujte se třetí & čtvrtou značkou pro druhý překlad. Stejně tak postupujte s pátou a šestou značkou pro třetí překlad. Vzniklé sklady přežehlete jako celek a dejte stranou. 
 
 &nbsp;
 
-#### Step 5: Prepare the straps
+#### Step 5: Připravte si proužky na šňůrky
 
 ![](/images/mask/strap1.png)
 
