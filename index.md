@@ -18,7 +18,7 @@ Tyhle stránky začaly vznikat v Berlíně v druhém březnovém týdnu 2020. O 
 
 ![](/images/virus.png)
 
-Vycházíme z toho, že v nadcházejících měsících bude nezvykle mnoho lidí nemocných a víc lidí než obvykle se bude o nemocné kolem sebe starat. Doufejme v to nejlepší, ale držme se předpokladu, že nemocnice budou vytížené. Hrozí i to, že bude třeba léčit podomácku a v domácích podmínkách stavy, které by normálně byly řešeny hospitalizací. Doufáme, že uvedené informace vám dodají odvahy přeprat tuhle nemoc a tímhle společným informovaným bojem trochu ulevíme zatíženému zdravotnickému systému. Stejně tak ale doufáme, že vám poskytnuté informace pomohou rozpoznat ten stav, kdy je lékař potřeba. Čím víc lidí bude tyhle věci znát, tím spíš tuhle krizi zvládneme. 
+Vycházíme z toho, že v nadcházejících měsících bude nezvykle mnoho lidí nemocných a víc lidí než obvykle se bude o nemocné kolem sebe starat. Doufejme v to nejlepší, ale držme se předpokladu, že nemocnice budou vytížené. Hrozí i to, že bude třeba léčit podomácku a v domácích podmínkách stavy, které by normálně byly řešeny hospitalizací. Doufáme, že uvedené informace vám dodají odvahy přeprat tuhle nemoc a tímhle společným informovaným bojem trochu ulevíme zatíženému zdravotnickému systému. Stejně tak ale doufáme, že vám poskytnuté informace pomohou rozpoznat ten stav, kdy je lékař potřeba. Čím víc lidí bude tyhle věci znát, tím spíš coronakrizi zvládneme. 
 
 
 [![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
