@@ -74,19 +74,18 @@ Když někoho uslyšíte šířit blbosti, odkažte ho na relevantní zdroje. Uk
 
 ### Příprava
 
-And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. But in these times it doesn't hurt to be a tiny bit more ready for the worst-case scenario.
+Štěstí přeje připraveným. Proto by bylo dobré se v poklidu připravit na možnost, že ve vaší domácnosti někdo onemocní. Čtete naše stránky a s přípravou jste tedy už začali - super! 
+Je statisticky nepravděpodobné, že by se u vás nebo vašich blízkých vyvinuly život ohrožující komplikace a když už, zdravotní péče je stále dost. Nicméně, není od věci připravit se i na ty horší scénáře. Pořád to ale není důvod k panice. 
 
-Remember, at the same time, that there is no reason to panic. Take a deep breath and continue your regular life as much as possible.
+#### Nákup
 
-#### Get the things you need
+Připravili jsme [nákupní sezam](/shopping) věcí pro domácnost s pacientem. 
 
-We made a [shopping page](/shopping) that lists handy things that may help you care for yourself and others.
+#### Pomoc na zavolání
 
-#### Reach out
+Máte-li v okolí někoho, kdo žije sám - teď je ta vhodná doba pravidelně kontrolovat, jestli něco nepotřebují a daří se jim dobře. Jestli žijete sami - teď je ten správný čas domluvit se s někým, kdo by vám případně pomohl, kdybyste onemocněli. 
 
-If you live alone, now is a good time to think who you can ask to check on you regularly if you become ill. If someone you know and love lives alone, now is a good time to be in touch to see how they are doing. 
-
-### Existing Medical Conditions
+### Existující zdravotní potíže
 
 If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. Reputable sources for health information about a wide variety of conditions include the [National Institutes of Health](https://www.nih.gov/health-information), [the NHS](https://www.nhs.uk/), and [Mayo Clinic](https://www.mayoclinic.org/). You / they should also make extra sure that you / they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc. would be nice. What should you not forget? Write it down now!
 
