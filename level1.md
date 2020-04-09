@@ -66,13 +66,13 @@ Když někoho uslyšíte šířit blbosti, odkažte ho na relevantní zdroje. Uk
 * **Emoce jsou normální.**. Každý normální člověk teď prožívá víc emocí než normálně. Máme tu krizovou situaci a nereagovat na ni by nebylo přirozené. Jasně, že jste ve stresu. Jasně, že občas cítíte obavy, stres, smutek a spoustu dalších emocí. Nesuďte se za to. A důležitá životní rozhodnutí odložte na později. 
 * **Soustřeďte se na budoucnost**. Každý má v hlavě plány na "až jednou bude trocha času". Tak ten čas je tady. Ideální doba odkoukat odkládané seriály a oblíbené filmy, začít psát deník, učit se cozí jazyk, přeorganizovat kuchyň. Prostě ty resty. Začněte něčím jednoduchým a uvidíte, jak vám to zvedne náladu. 
 * **Buďte v kontaktu**. Pravidelně volejte příbuzným. Je přirozené probírat pandemii, ale zkuste se také pobavit o něčem jiném. Věnujte pozornost psychickému zdraví vašich blízkých. Pobavte se o pozitivních věcech z posledních dní. Co se vám doma povedlo? Na co se těšíte? 
-* ****. Look up your favorite comedians on Youtube or go hunting for new ones. Film a song parody or silly sketch for your friends. Think about your favorite comics as a kid, and see if you can get your hands on a comic book or anthology. 
-* **Move**. Whether aerobic or non-aerobic (or both), do some form of exercise that you can enjoy. It's not only good for your physical health, but also for your psychological well-being. 
-* **Find your routine**. Having regular times or orders in which you do things (eat, work, play, sleep) helps some people stay on an even keel. 
-* **Be your own friend (coach, cheerleader)**. Fear and other negatives are easier to notice and remember than love and other positives -- our brains had to evolve this way to help us be alert to predators and survive in different environments than we now find ourselves (like the open savannah). Help your brain adapt to living in the modern world instead by reorienting your attention toward the good things going on. Look for evidence that people are being kind to others. Have faith that you and your dear ones will be able to cope with the situation together. Envision your future self achieving the best you can, and celebrate that you have had the strength to get through this. 
-* **Talk to your kids**. Ask what they know and what they want to know, provide structure and routine, stay calm, and play together. 
+* **Smích nad zlato**. Čas oprášit oblíbené filmové komedie a najít si nové. Kdo je váš oblíbený komik? A co takhle napsat vlastní stand-up?
+* **Hýbejte se**. Ať už cardio nebo ne, pohyb pomáhá proti špatné náladě. Jakákoliv forma domácího cvičení je dobrý nápad. 
+* **Rutina je dobrá**. Tělo rádo pravidelný režim, mozek upřednostňuje rituály a procesy, které zná. Pravidelné pořadí denních aktivit může pomoci od úzkosti, pravidelný rituál na začátku pracovního dne může zas pomoci se soustředěním. 
+* **Buďte sami k sobě laskaví**. Mozek si snáz vybavuj negativní zážitky a emoce. Během evoluce nám to tožit pomáhalo přežít ("Po tomhle ovoci mi minule bylo špatně"). Je proto potřeba pomoci našemu mozku s adaptací na 21. století. Soustřeďte se na pozitvní zprávy a zážitky. Právě v době krize se kolem nás děje spousta malých i velkých dobrodiní. Buďte na sebe hrdí za to, jak to celé dosud zvládáte a věřte, že to celé jednou přejde.  
+* **Nevynechte svoje děti**. Optejte se, co o současné situaci vědí a co by vědět chtěly. Snažte se udržet aspoň trochu pravidelný režim, nic moc nehroťte a běžte si hrát.  
 
-### Prepare
+### Příprava
 
 And on top of that, you can prepare so that you are familiar with the things that you will need to do when disease comes knocking. Read the rest of this guide. It is statistically unlikely anyone in your household will develop life-threatening complications, and hopefully there will be plenty of medical care for everyone. But in these times it doesn't hurt to be a tiny bit more ready for the worst-case scenario.
 
