@@ -87,29 +87,30 @@ Máte-li v okolí někoho, kdo žije sám - teď je ta vhodná doba pravidelně 
 
 ### Existující zdravotní potíže
 
-If you or your loved ones have existing medical conditions, now is the time to read up on how these conditions could be made worse by COVID-19 / pneumonia. Reputable sources for health information about a wide variety of conditions include the [National Institutes of Health](https://www.nih.gov/health-information), [the NHS](https://www.nhs.uk/), and [Mayo Clinic](https://www.mayoclinic.org/). You / they should also make extra sure that you / they have plenty of all of your / their necessary medications. Make sure you have all the information relevant for treatment (contact info of doctors, recent lab results, how much of which drugs the patient is taking). Assume for a moment that your regular doctor isn't there and you have to explain it all to a new doctor who has very little time. A recent timeline of visits, results, etc. would be nice. What should you not forget? Write it down now!
+Zjistěte si, jestli by se vaše současné zdravotní problémy (nebo potíže vašich blízkých) mohly zhoršit infekcí COVID-19. Mezi relevantní zdroje patří [National Institutes of Health](https://www.nih.gov/health-information), [the NHS](https://www.nhs.uk/), and [Mayo Clinic](https://www.mayoclinic.org/). Ujistěte se, že máte dostatek pravidelně užívaných léků (popř. si svému lékaři řekněte o e-recept). Vytvořte si desky (nebo soubor) se všemi relevantními informacemi ohledně vašeho zdraví. Měl by určitě obsahovat kontakt na vaše doktory, poslední laboratorní výsledky, název a dávkování užívaných léků. Představte si, že váš pan doktor není k sehnání a musíte svůj kompletní zdravotní stav vysvětlit jinému lékaři, který má velmi málo času. Co je důležité, aby o vás věděl? Sepiště to. 
 
-What sorts of existing medical conditions are especially likely to make you / your loved ones vulnerable to more severe COVID-19 problems?
-- Conditions that involve lungs / breathing problems (e.g., asthma, COPD, lung cancer).
-- Heart conditions, particularly chronic cardiovascular disease (e.g., hypertension, congestive heart failure, atrial fibrillation).
-- Conditions that involve compromised immune function and / or require taking immunosuppressant medications (e.g., lupus, arthritis, organ transplantation, some cancers).
-- Other chronic hematologic, hepatic, metabolic, neurologic, neuromuscular, or renal disorders (e.g., sickle cell anemia, diabetes, muscular dystrophy, kidney disease). 
+Mezi problémy, které vás činí náchylnými k horšímu průběhu onemocnění COVID-19 patří: 
+- Problémy s plícemi / jakékoli dýchací obtíže (například astma, chronická obstrukční plicní nemoc COPD, rakovina plic).
+- Problémy se srdcem, kardiovaskulární onemocnění (např. hypertenze, ischemická choroba srdeční, arytmie...).
+- Snížené funkce imunitního systému, problémy zahrnující braní imunosupresiv (jako lupus, artrtitida, transplantovaný orgán, některá nádorová onemocnění)
+- Ostatní chronická hematologická, hepatitická, metabolická, neurologická, neuromuskulární, nebo ledvinová onemocnění (chudokrevnosti, cukrovky, onemocnění ledvin...)
 
-### Preventive Care
+### Preventivní péče
 
 {{ site.data.tags.breakout.begin }}
 
-If the news is full of stories of hospitals being overloaded with COVID-19 patients where you are, then ignore the text below and let the doctors and nurses work. Except when local health authorities tell you otherwise, naturally.
+Pokud se na vás z televize valí informace o přelněnosti místních nemocnic pacienty s COVID-19 a kolabujícím zdravotnickém systému, ignorujte následující text a nechte zdravotníky dělat svoji práci. 
 
 {{ site.data.tags.breakout.end }}
 
-If the situation is still somewhat normal where you are, this may be good moment to briefly ask your doctor what (if anything) she/he thinks you should do now, and what you should do if you fall ill. If you have not yet been vaccinated for the seasonal flu, pneumococcal pneumonia, or meningococcal meningitis, now may also be a good time to ask your doctor if you are a candidate for those vaccines. Getting these vaccinations now if your doctor advises it could help prevent another infection from compounding problems that may be caused by COVID-19, should you be infected later. 
+Jestli je váš lokální svět stále ještě přiměřeně normální, můžete zavolat svému lékaři a vyptat se, co dělat v případě, že onemocníte. Jestli nemáte očkování na sezónní chřipku, pneumkoky, meningitidu, zeptejte se, jestli by se vám podle pana doktora očkování hodilo. 
 
-During pandemics, it is typical for childhood immunizations, maternal healthcare, and healthcare for chronic health conditions to get cancelled or delayed because doctors, nurses, hospitals, and the rest of the healthcare system may be overloaded, and because people may be afraid to go in to doctors' offices or hospitals for fear (sometimes rational) of being exposed to disease. In case your area is not yet greatly affected by COVID-19: Is there any normal childhood vaccination you want to be sure your child gets while he or she can? Any prenatal care or routine care for a chronic health condition you can get now instead of in a month? What about other conditions that are common ailments for you or your loved ones? Anything you can do to prepare to care for yourselves without normal medical care access in the coming months, in case it becomes harder to get time with doctors and nurses because they are overwhelmed? Do it now.
+Je přirozené, že se během pandemií odkládají dětská očkování, preventivní, těhotenské a jiné prohlídky. Je tomu tak prostě proto, že je zdravotnický systém zatížen nastalou pandemií a koncentrace neakutních pacientů v nemocnicích zvyšuje riziko šíření infekce. Pokud vaše oblast ještě není výrazně zasažena, zjistěte si, jestli jsou vaše děti očkovány podle plánu a žádná vakcína jim nechybí. Zamyslete se, jestli odkládáte nějakou vlastní lékařskou prohlídku, jejíž zapomenutí by vám v následujících měsících mohlo vadit, nebo vás mohlo ohrozit. Zjistěte to samé i o vašich rodičích a všech, o které se staráte. Jednoduše řečeno, připravte se na to, že neakutním problémům nebude během pandemie nikdo věnovat pozornost. 
 
-### Life, death, dignity, and choices
+### Život, smrt, důstojnost a vlastní volby
 
-Let's be straight: COVID-19 is potentially lethal, and this is even more true if you are middle-aged or older (because there is a [strong age gradient](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext) in risk of death from it) and / or have existing medical problems (especially ones affecting the lungs, heart, or immune function). We hate to bring up some potentially depressing things right here in Level 1, when you and your loved ones are not even infected with the virus. But, if at all possible, you want to be level-headed and not rushed when you think about these things.
+Narovinu: COVID-19 je potenciálně smrtelné onemocnění. Čím starší jsme, tím víc jsme v ohrožení. Uvedeno v číslech, existuje 
+Let's be straight: COVID-19 is potentially lethal, and this is even more true if you are middle-aged or older (because there is a [věkový gradient](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext) in risk of death from it) and / or have existing medical problems (especially ones affecting the lungs, heart, or immune function). We hate to bring up some potentially depressing things right here in Level 1, when you and your loved ones are not even infected with the virus. But, if at all possible, you want to be level-headed and not rushed when you think about these things.
 
 First, remember not to panic. Of all the people who get infected with the virus, many will show no symptoms. The majority of people who do show symptoms will have a mild or moderate version of the disease. The majority of the people who get sick do not need to go to hospital. Even among risk groups such as the elderly and people with multiple existing medical problems, most will survive. That all being said: the sad reality is that some COVID-19 patients will develop severe respiratory problems, and of those, some will die. 
 
