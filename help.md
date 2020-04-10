@@ -2,6 +2,7 @@
 
 If this seems like a slick and streamlined operation to you, you're wrong. We're a small group of volunteers, mostly without medical training, winging it because we feel this information is not in one place and needs to be really soon. As we write this we haven't done much else for a week now, and we could really use help in the following areas:
 
+
 #### Get the word out !
 
 This is now one of the most important things you can do to help. Tweet about this website and mention it on Facebook, Instagram and wherever else you can think. If you are a journalist, could you maybe mention this website in print or broadcast media? If you are a YouTube influencer, could you maybe talk about this site? If you have any online marketing experience, could you maybe help us be found?
