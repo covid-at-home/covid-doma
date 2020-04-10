@@ -10,64 +10,63 @@ Mezi první příznaky COVID-19 patří:
 * Zkrácený dech / dýchací obtíže
 * Problémy s trávením (aka průjem)
 
-Fever seems to be the most common symptom -- but it's not universal. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) reported low incidence of gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite). But [more recent evidence](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) suggests they are common and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
+Vypadá to, že horečka je nejšastějším symptomem - stejně se ale vyskytují případy bez horečky. [První data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) ukazovala nízké zastoupení trávicích obtíží (průjem, nevolnost, zvracení, bolest břicha, ztráta chuti k jídlu).[Novější průzkumy](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) ale naopak ukazují, že jsou takové problémy časté a mnohkrát předcházejí těm repiračním. Další průvodní symptomy můžou být bolest svalů, bolest hlavy, zimnice, nevolnost, ucpaný nos a bolest v krku. V průběhu onemocnění potom člověk často [ztrácí čich a chuť](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) a to až na několik dní. 
 
-However, common colds, flu, and allergies can also cause many of the same symptoms. In fact, nasal congestion, itchy eyes, and sneezing most likely indicate a condition other than COVID-19, such as allergies. There is no single unique COVID-19 sign or symptom. There is no way to know for sure whether you have COVID-19 without testing for it.
+Jak je vidět z různorodosti uvedených příznaků, vaše obtíže můžou být způsobeny i normálním nachlazením, sezónní chřipkou, nebo třeba alergií. Právě podráždění očí, kýchání  a ucpaný nos ukazují mnohem pravděpodobněji na alrgerii než na COVID-19. Neexistuje jeden univerzální symptom s jistotou spojovaný jen s COVID-19. Jediný způsob, jak u vás nákazu prokázat, je specializovaný test. 
 
-Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
+Šíří se COVID-19 ve vaší oblasti? Cestovali jste a vyskytovali jste se v postižené oblasti v posledních 21 dnech? Potkali jste někoho, kdo se vrátil ze zasažené oblasti, nebo je prokázaně nakažený? Jestli ano, pravděpodobnost COVID-19 se u vás zvyšuje. Ve spoustě oblastí je ale pořád pravděpodobnou diagnozou něco jiného než COVID-19. 
 
-> Note: Fever is not subjective. You will need a thermometer (or two, in case one breaks), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your illness diary (more on this below), so that healthcare personnel know which it is. (Around .7° Celsius or 1° Farenheit is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Poznámka: Horečka není subjektivní. Potřebujete teploměr (do zásoby nejlépe dva) a měli byste si měřit teplotu každý den (a výsledek si poznamenat). Nejpřesnější výsledky budete mít, když si butede měřit teplotu rektálně. Pokud se pro tento způsob rozhodnete, zajistěte si také dostatek dezinfekce a čistících prostředků, abyste mohli teploměr vyčistit po každém použití. Jestli si měříte teplotu orálně (v ústech), 20 minut před měřením nic nejezte a nepijte. Vyberte si jeden způsob měření, držte se ho a zaznamenejte ho do zdravotního deníku (jak ho vést se dovíte v zápětí). Rozdíl je pro zdravotníky důležitý, protože se teploty v různých místech měření liší. Fajn instrukce k měření teploty orlánlně [najdete zde](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
-### If you don't have symptoms
+### Když příznaky nemáte
 
-Some people may be exposed to, carry, and infect others with the virus -- without ever showing symptoms themselves. These people are asymptomatic carriers. They seem to be common; they may number around [one in four](https://www.theguardian.com/world/2020/apr/01/china-pivots-to-tackle-silent-covid-19-carriers-as-us-says-a-quarter-of-cases-may-have-no-symptoms) of those infected. Unless widespread testing is available where you are (which is currently a small minority of places), it may not be possible to determine if you are one of them. This is one of the reasons why everyone should currently be following the advice of public health authorities that generally includes social distancing measures covered in Level 1. 
+Někteří znás můžou být vystaveni viru, přenášet ho a šířit na ostatní kompletně bez vlastních zdravotních potíží. Říkáme jim **přenašeči**. Zdá se, že jich není málo. Někde se uvádí [jeden ze čtyř](https://www.theguardian.com/world/2020/apr/01/china-pivots-to-tackle-silent-covid-19-carriers-as-us-says-a-quarter-of-cases-may-have-no-symptoms) infikovaných. Dokud nemáme plošné testování, nedovíme se přesná data - ani jestli je to váš případ. Přesně proto bychom se teď všichni měli chovat jako potenciálně nakažení a chránit naše blízké a známé. Uvažujte tak, jako byste byli nakaženi (a nechcete nákazu šířit), místo toho abyste se jen chránili. 
 
-### If you have symptoms
+### Když se příznaky objeví
 
-The single most important thing once you have symptoms that might be COVID-19 is to stay at home, or to go home if you discover them while not at home. Call in sick. Stay away from people as much as possible and go to a separate room if you live with others. If you live alone, let someone (friend, family) know that you are ill and will keep letting them know how you're doing. 
+Uplně první a nejdůležtější rada je: jděte domů / zůstaňte doma. Oznamte zaměstnavateli, že jste nemocní. Pokud sdílíte domácnost, zavřete se do samostatné místnosti (členové domácnosti by vám měli jednu vyčlenit). Jestli žijete sami, dejte někomu vědět (rodině, přátelům), že je vám špatně a jste sami doma. Vaši blízcí by měli pravidelně telefonicky kontrolovat, jak se vám daří. 
 
 {{ site.data.tags.breakout.begin }}
 
-#### Symptoms? Maybe you need to register...
+#### Symptomy? Možná máte povinnost se registrovat...
 
-As this point you need up-to-date local information. Your health authorities may want to know if you have symptoms. Reasons for this may include population monitoring to see where the virus is, planning the government's response as well as opening a channel to follow up with you personally. There may be a phone number to call if you have symptoms, or a website to visit, or an app to download. Just figure out what the authorities in your area want you to do as soon as you have isolated yourself from others.
+Záleží na pravidlech vaší oblasti. V některých oblastech se nemocní registrují online nebo telefonicky, protože si to krizové vedení přeje vědět a vést statistiky. Je to součást monitoringu pandemie, který umožní lepší rozhodování lokálních autorit. Stejně tak se to hodí vám, protože registrace může otevřít dveře k odborné pomoci, kterou možná budete potřebovat později. Zjistěte si způsob registrace ve vaší oblasti a dejte o sobě vědět. 
 
-#### Diagnosis
+#### Diagnóza
 
-You will want to know whether what you have is just a cold, a flu or actual COVID-19. There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines. If testing capacity is limited, you may not qualify for testing, even if you have all the symptoms of COVID-19. 
+Přirozeně chcete vědět, jestli jste nachlazení, máte chřipku, nebo COVID-19. Zjistěte, jakou cestou se můžete nechat otestovat. Všude nejdřív volejte, nikam nechoďte bez předchozího ohlášení (telefonického potvrzení, že můžete přijít). V mnoha zemích je nedostatek testovacích kapacit a možná se nekvalifikujete jako vhodní pro otestování, ani pokud máte všechny příznaky. 
 
-You may find that the official information on getting tested doesn't always match the reality on the ground. It may be impossible to get through, the queues may be way too long or the waiting conditions unsafe. (You don't want to get COVID-19 from trying to find out if you have it.)
+Třeba zjistíte, že realita neodpovídá tomu, co se píše online a uvádí v médiích. Možná budou fronty na testování příliš dlouhé, nebo podmínky moc riskantní. Co opravdu nechcete, je chytit COVID-19 během čekání na testování COVID-19. 
 
-In some cities, your regular doctor will come to your home in full gear to swab your throat. In other places there are drive-throughs. There are also Do-It-Yourself test kits you can order by mail where you perform your own throat swab and send it to the lab for testing. The availability of all of these methods will differ depending on where you are, who you are, what stage the pandemic is in and many other factors. We cannot possibly help you further than to tell you to inform yourself as soon as you have isolated yourself.
+Některá města zavedla domácí testování, tzn. odborný personál přijede k vám domů a provede výtěr krku. Jinde zavedli drive-throughs (kde vám vyšetření provedou, zatímco sedíte ve vlastním autě). Existují i "domácí testy", které přijdou poštou a po výtěru se pošlou zpět do laboratoře. Způsoby jsou různé a liší se dle vaší lokality a stupně vašich příznaků. 
 
 {{ site.data.tags.breakout.end }}
 
-**Under no circumstances should you just show up at a doctor's office or a hospital unannounced if you experience symptoms.**
+**ZA ŽÁDNÝCH PODMÍNEK byste němeli přijít k dokorovi bez ohlášení, zvlášť pokud máte příznaky.**
 
-> Remember: This is for your own protection as well as that of the other patients. Hospitals are bad places to be until you absolutely have to be there: You run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded, so waiting times may be astronomical.
+> Pamatujte: Chráníte tím nejen ostatní, ale i sebe. V nemocnici během pandemie prostě být nechcete. Riskujete, že chytíte něco, co ještě nemáte. A v nemocnicích toho bývá spousta. Nemocnice budou přeplněné. Šance, že se vám někdo bude věnovat je nižší a čekací doba může být nekonečná (a proto strašně nebezpečná). 
 
-### Don't Panic 
+### Nepanikařte
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. 
+Pro většinu lidí bude výše popsané to nejhroší a víc už nic - zase se z toho dostanete a bude to. 
+Někteří to ale nebudou mít tak jednoduché. I malé procento závažnějších případů patrně zahltí zdravotnický systém. Proto pokud nemusíte, do nemocnice nechoďte.  
 
-At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses, and available medical resources. We can all help them by staying home whenever possible. 
+Lékařský terminus technicus "ustaraní hypochondři" označuje lidi, kteří jdou k lékaři jen pro ujištění, že budou v pořádku. V příštích měsících se jimi snažte nebýt. Naše stránky by vám měly poskytnout dostatek seběvědomí ve vlastním soukromém boji s COVID-19, ať už bojujete vy sami nebo vaši nejbližší. 
 
-The "Worried Well" is a medical term for people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+Není od věci zkusit třeba relaxační techniky pro uklidnění panického zrychleného dýchání, nebo třeba jen pro uvolněnější odpoledne:
 
-Consider using relaxation techniques to slow a rapid respiration or heart rate that may be partially due to anxiety (or just to chill out): 
-- Listen to soothing music.
-- Check in with a friend electronically.
-- See if you can slow your breathing and bring down your heart rate by counting longer for forceful exhaling than for gentle inhaling. Some people use 4-7-8, and others prefer 5-2-5 to try slowing down their inhale-hold-exhale patterns. Use what feels best for you. 
+- Pusťte si klidnou hudbu
+- soustřeďte se na svůj dech, zpomalte dechovou frekvenci. Výdech by měl trvat déle než nádech. Někdo rád poměr (nádech - držet - výdech) 4-7-8, někdo zas 5-2-5. Najděte si to svoje. 
 
-### Self-quarantine
+### Sebeizolace - Karanténa
 
-Until tested and depending on where you are and where you have been, simply assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Dokud nemáte výsledky testů, přistupujte k situaci tak, že má pacient (kdokoliv s příznaky) COVID-19. Znamená to karanténu, žádné návštěvy, pro samotné lidi i oznámení na dveřích a žádné vycházky pokud není absolutně jisté, že nikoho nepotkáte. Další pravidla karantény se mohou lišit v závislosti na vaší oblasti a místních zvyklostech. Snažte se mít kompletní zásoby na 14 dní, abyste po tu dobu nemuseli ven. Nikdo nevíme, jak dlouho budou nastalá opatření trvat. 
 
-### Garbage
+### Odpadky
 
-During this time at least, err on the side of caution when it comes to waste disposal. Used tissues, paper towels, and other possibly contaminated disposable items should be bagged in disposable trash bags, tied securely, and put aside for 72 hours prior to external disposal. Some municipalities also recommend placing these items in a second disposable trash bag. If you use communal garbage bins, disinfect the handles when possible before and after use. Wash your hands after handling trash and bins. 
+Opatrně s infekčním materiálem - všechny posmrkané kapesníky, ubrousky a odpadky od nemocného by měly být zavázány v pevných odpadkových pytlích. Tzn. dejte nemocnému do jeho karanténní místonsti vlastní odpadkový koš. Zavázané pytle někam odstavte aspoň na 72 hodin, než je dáte ke svozu odpadu. Umyjte si ruce hned potom, co vynesete koš. 
 
-### PPE
+### Osobní ochranné prostředky
 
 Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
 
