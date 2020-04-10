@@ -68,31 +68,30 @@ Opatrně s infekčním materiálem - všechny posmrkané kapesníky, ubrousky a 
 
 ### Osobní ochranné prostředky
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks AND IF MASKS ARE NOT IN SHORT SUPPLY FOR DOCTORS AND NURSES WHERE YOU ARE, wear one outdoors. You are not supposed to be outdoors when you have symptoms, we know. But we mean even just when putting out the trash. If you have no mask, at least do something. Wrap a towel around your nose and mouth, breathe through a scarf, anything is better than nothing. Here are a few [recommendations for PPE](https://covid-at-home.info/shopping) in the context of the COVID-19 pandemic, summarized and expanded on briefly below: 
+Nejpozději teď je čas myslet na ochranné prostředky. V nejlepším případě vůbec ven nemusíte. Pokud ano, ikdyby jen k popelnicím, zakryjte si ústa a nos rouškou. Když nemáte roušku, omotejte si kolem obličeje šálu nebo třeba utěrku. Něco je lepší než nic. Tad je pár [doporučení](https://covid-at-home.info/shopping) k současné pandemii, shrnutých asi takto: 
 
-- Use PPE if you are sick and have to be around other people, or if you feel well but have to be around someone who is sick (e.g., caring for someone). 
-- Use a high-filtration respirator like an N95, FFP2, or FFP3 if you can. Next-preferred would be a regular medical face mask (surgical or procedural). Then a home-made or improvised mask. Just use something. 
-- Use disposable gloves to take out the trash when you are ill, or when caring for someone who is ill. 
-- It may make sense to also use a cap, gown, and eye protection if you are caring for someone with COVID-19 at home. 
-- Fitting respirators properly is hard and important; look up [some videos](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask) and mold it to your face with your fingers without squeezing the bridge. 
-- Take care putting it on. Start in a clean zone with clean hands and keep your PPE as clean as possible. 
-- Take care taking it off. First remove gloves and wash hands, then remove mask and wash hands, then remove any other PPE or dirty clothes and wash hands. Then put on clean clothes and get back to a clean zone. 
-- Dispose of used gloves in a disposable trash bag, double-bagging and / or placing the trash aside for 72 hours before external disposal. 
-- Although this is not normal, you probably want to reuse masks since they are already in short supply globally (and the same may become true for other PPE). The best way to reuse PPE is to mark seven sets -- one for each day of the week. Rotate them after wearing to sit in a clean place for a week. If you need respirators / masks decontaminated faster, bake them in the oven at 70° Celsius (around 160° Farenheit) for 30 minutes. 
+- Používejte ochranné osobní prostředky, pokud pociťujete příznaky sami, nebo pokud jste kolem nemocných (třeba pokud se staráte o nemocného doma). 
+- Noste profesionální nebo ušité roušky. 
+- Pužívejte jednorázové rukavice kdykoliv jdete ven i při péči o nemocné doma. 
+- Nepřeháníte, pokud si při péči o nemocné budete chránit i oči - brýlemi nebo štítem. 
+- Pokud máte respirátor, noste jej [správně](https://www.youtube.com/results?search_query=how+to+fit+a+respirator+mask)
+- Před nasazením ochranných pomůcek si umyjte ruce. Všechny nasazujte v neinfekčním bezpečném prostředí. 
+- Nejdříve sundejte použité rukavice a umyjte si ruce. Potom sundejte ochranu obličeje a ruce si umyjte znovu. Převlečte se do čistého oblečení a opusťte domácí převlékací zónu. 
+- Všechny použité prostředky odhazujte do igelitových odpadkových pytlů (a před vynesením je nechte 72 hodin stranou). 
+- Vzhledem k nedostatku budete pravděpodobně chtít používat jednu roušku opakovaně. V ideálním případě si připravte 7 setů roušek - jeden set na každý den. Bavlněné roušky vyvařte po každém použití, nechte uschnout a vyžehlete. Po vyžehlení je skladujte v čistém igelitovém obalu. Rychlejší způsob je dát roušky do trouby na 30 minut a POUHÝCH 70°C . 
 
-### Family, flatmates, etc.
+### Rodina a spolubydlící.
 
 {{site.data.tags.breakout.begin}}
 
-Seek up-to-date local information if you live with others. The authorities may provide you with different or more detailed instructions, advice, or even PPE materials.
-
+Vyhledejte informace z lokálních zdrojů. Krizové vedení vás bude informovat o konkrétních opatřeních, které jsou doma potřeba. Dovíte se i jestli a kde vás vybaví ochrannými prostředky. 
 {{site.data.tags.breakout.end}}
 
-Here are some general suggestions and tips for dealing with family and flatmates if you have or suspect you may have COVID-19: 
-- **Self-quarantine from the outside...** Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine, too. 
-- **... and distance on the inside."** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
+Obecná doporučení a tipy, jak žít pohromadě, když máte podezření na infekci COVID-19: 
+- **Izolujte se doma od všeho venku...** Základem je izolovat se jako domácnost od všech, kteří s vámi nebydlí. zabráníte zavlečení infekce domů. 
+- **...a izoluje nakažené/nemocné v rámci domácnosti."** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
 - **Clean the kitchen faucet.** Regularly clean all frequently touched surfaces (doorknobs, light switches, table surfaces, keyboards, phones, toilet handles if in shared bathrooms, kitchen faucet handles if in shared kitchens -- you get the idea) with a regular household cleaner (e.g., Lysol, Windex), hydrogen peroxide solution, or diluted bleach (10 ml / 2 tsp bleach with half a liter / 2 cups of water; carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. Give the cleaner a minute to work on surfaces before wiping it dry. 
-- **Consider PPE.** Your housemates might want to wear masks indoors, too. When they handle your trash or laundry, disposable gloves are also a good idea. 
+- **Zvažte roušky i doma.** Your housemates might want to wear masks indoors, too. When they handle your trash or laundry, disposable gloves are also a good idea. 
 
 In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basics then remain the same: Try to protect other people, especially those middle-aged or older and people with existing illnesses, as much as possible. And try to minimize the spread whenever you can, as best you can. Remember: The more we can slow or stop the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care (for any reason), who are able to access it. This helps doctors and nurses save more lives. 
 
