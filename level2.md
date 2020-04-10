@@ -1,14 +1,14 @@
-## Level 2 -- Emerging Symptoms
+## Level 2 -- První příznaky
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer anew from any of the following, most common first COVID-19 symptoms:
+Mezi první příznaky COVID-19 patří:
 
-* Fever
-* Fatigue
-* Dry (unproductive), persistent cough 
-* Shortness of breath
-* Gastrointestinal symptoms
+* Horečka
+* Neobvyklá únava
+* Suchý kašel (bez vykašlávání)
+* Zkrácený dech / dýchací obtíže
+* Problémy s trávením (aka průjem)
 
 Fever seems to be the most common symptom -- but it's not universal. [Early data](https://www.nejm.org/doi/full/10.1056/NEJMoa2002032) reported low incidence of gastrointestinal symptoms (diarrhea, nausea, vomiting, abdominal pain, loss of appetite). But [more recent evidence](https://journals.lww.com/ajg/Documents/COVID_Digestive_Symptoms_AJG_Preproof.pdf) suggests they are common and can even precede respiratory symptoms. Initial symptoms may also include joint / muscle pain, headache, chills, dizziness, nasal congestion, and sore throat. Later in the infection, symptoms may include [loss of smell and taste](npr.org/sections/goatsandsoda/2020/03/26/821582951/is-loss-of-smell-and-taste-a-symptom-of-covid-19-doctors-want-to-find-out) lasting for several days. 
 
