@@ -12,19 +12,19 @@ Budete potřebovat:
 
 Kliknětím na obrázek pod textem si stáhněte PDF soubor s předlohou na masku. Předlohu vytiskněte a vystřihněte podél černé čáry. 
 
-[![](/images/mask/mask-template.png)](/images/mask/mask-template.pdf)
+[![](/assets/images/mask/mask-template.png)](/assets/images/mask/mask-template.pdf)
 
 #### Step 2: Nastříhejte čtverce
 
 Vystřihněte dva čtverce podle předlohy. Složte čtverce lícovými stranami k sobě, sešpendlete a navrch položte předlohu. Nastříhněte oba čtverce po stranách podle zobáčků v předloze. Nástřihy slouží jako označení budoucích překladů. 
 
-![](/images/mask/cut.png)
+![](/assets/images/mask/cut.png)
 
 &nbsp;
 
 #### Step 3: Sešijte čtverce dohromady
 
-![](/images/mask/stitch.png)
+![](/assets/images/mask/stitch.png)
 
 Sešijte čtverce dohromady dvěma švy na protilehlých stranách - těch bez nástřihů (jak ukazují červené čáry na obrázku). **Otočte "naruby"** tak, aby lícové strany koukaly ven. 
 
@@ -33,7 +33,7 @@ Sešijte čtverce dohromady dvěma švy na protilehlých stranách - těch bez n
 
 #### Step 4: Vytvořte překlady
 
-![](/images/mask/fold.png)
+![](/assets/images/mask/fold.png)
  
 Přehněte v úrovni první značky a přežehlete, aby vznikl sklad. Vzniklý sklad posuňte do úrovně druhé značky a znovu přežehlete. Výsledkem bude první překlad. Zopakujte se třetí & čtvrtou značkou pro druhý překlad. Stejně tak postupujte s pátou a šestou značkou pro třetí překlad. Vzniklé sklady přežehlete jako celek a dejte stranou. 
 
@@ -41,11 +41,11 @@ Přehněte v úrovni první značky a přežehlete, aby vznikl sklad. Vzniklý s
 
 #### Step 5: Připravte si proužky na šňůrky
 
-![](/images/mask/strap1.png)
+![](/assets/images/mask/strap1.png)
 
 Cut two strips of fabric, each 5 cm (2") wide and 90 cm (35") long. Fold each one down the middle and iron the fold. Then fold open again and fold each side to the middle and iron the folds again. *(You can also use a ribbon, as long as it can also be boiled/ironed to sterilize.)*
 
-![](/images/mask/strap2.png)
+![](/assets/images/mask/strap2.png)
 
 &nbsp;
 
@@ -53,13 +53,13 @@ Cut two strips of fabric, each 5 cm (2") wide and 90 cm (35") long. Fold each on
 
 Insert the folded mask into the fold of a strap and stitch strap and mask together. Stitch the entire length of the strap. Repeat with other strap on other side of mask.
 
-![](/images/mask/strapstitch.png)
+![](/assets/images/mask/strapstitch.png)
 
 &nbsp;
 
 #### Step 7: Done
 
-![](/images/mask/voila.png)
+![](/assets/images/mask/voila.png)
 
 Make sure you boil the mask or iron it very hot to sterilize it. Make a few and change your mask if it gets wet. Take off and boil/re-iron after a day's use, without touching the outside.
 

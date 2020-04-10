@@ -40,7 +40,7 @@ Tohle je přesně jedna z těch rad, kdy je třeba držet se lokálních informa
 
 ### Zůstaňte zdraví
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Věnujte se péči o sebe. Existují totiž další způsoby, jak posílit imunitu a zůstat zdraví:
 

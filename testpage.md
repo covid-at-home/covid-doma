@@ -1,6 +1,6 @@
 ## Testpage -- ignore this
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Notice if you suffer from any of the following first symptoms:
 
@@ -77,7 +77,7 @@ Then write down any symptoms the patient has. If he or she is in pain, where and
 
 Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 #### Printable illness diary
 
