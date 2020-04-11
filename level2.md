@@ -115,46 +115,47 @@ Připravili jsme **[tisknutelnou verzi](/diary)**, která se hodí k zaznamenáv
 
 Ikdyž vám třeba není tolik zle, dejte přednost brýlím před kontaktními čočkami. Vaše imunita je teď ve válce s virem a nechcete přidat ještě oční [infekci](https://icrcat.com/en/coronavirus-and-conjunctivitis/). Navíc, kdyby se vám přitížilo, nechcete na čočky v očích zapomenout. 
 
-### Bojujte a vyhrajte
+### Zabojujte
 
 - **Treat fever with care**. 
   - Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. 
   - Fever is part of the body's natural defenses. Research suggests [medicating fever less](https://www.ncbi.nlm.nih.gov/pubmed/16433601) rather than more aggressively is safer. This means medicating a temperature of over 40° Celsius (104° Farenheit) -- and not medicating a lower fever. 
   - Questions are also emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. 
    - An additional safe way to treat fever is to take a bath or shower. The water temperature should be comfortable, not cold, because shivering can raise your core body temperature -- and the idea is to lower it. When you get out of the bath or shower, the leftover water evaporating from your skin can help lower your temperature. 
+   
+- **Pitný režim**. 
+  - Tohle je je prostě klíčové. Jen pokud člověk dostatečně pije, můžou jeho plíce tvořih hlen - bránit se. Čím víc vody v těle, tím vodnatější hlen který se snadno vykašle (a s ním i infekce).
+  - Radši vodu a čaje než džusy a perlivé limonády - zvlášť pokud už máte kašláním podrážděný krk. 
+  - Kolik je dostatčně? Řiďte se podle nejnovějších dat ze záchodové mísy. Tmavá moč znamená nedostatek vody - pijte víc. Vaším cílem je velmi  světle žluté zbarení. Pijte podle toho. 
+   - Zařaďte potraviny bohaté na vodu: okurka, pomeranče, jablka, nebo třeba vývar a jiné polévky
+   - stanovte si jednoduché cíle, jako třeba "kdykoliv vstanu z postele/dočtu kapitolu/přepnu kanál, vypiju sklenici vody". 
 
-- **Keep eating**. Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc.) are also essential for immune function. 
+- **Trochu pohybu**. Pokud vám kondice dovolí, dopřejte si trochu čerstvého vzduchu a slunečního svitu každý den. Dodržujte karanénní opatření. 
+- **Nehladovte**. Jezte zdravá jídla. Malé porce a nic těžkého. Vitamíny a vlákninu aka ovoce a zeleninu. Nevynechávejte karbohydráty (rýži, brambory, těstoviny), v boji s nemocí se vám hodí. 
 
-- **Steam**. Inhale steam 3+ times a day. The best way to do this is with a [steam inhaler](https://covid-at-home.info/shopping), a device that outputs steam that is not too hot to breathe. A humidifier or shower also works. The older method many people know is to boil water in a pot and then put your head over it, under a dishtowel; just make sure you don't do damage with hot water or steam that's too hot to breathe. There are no miracle cures and this is no exception; it just helps your airways open and drain a bit better. 
+- **Napařování**. 
+Naše babičky budou jistě souhlasit. Přiveďte vodu k varu, sundejte z plotny a nakloňte se nad hrnec. Můžete si přes hlavu přehodit ručník. Pod ručníkem zhluboka dýchejte. Pomáhá to vyčistit plíce a uleví se vám. Sofistikovanější variantou je [parní inhaler](https://covid-at-home.info/shopping), přístroj který vypouští páru a zvlhčuje tím vzduch. Stejného efektu dosáhnete i horkou sprchou. 
 
-- **Keep moving**. Go for a daily walk in the fresh air and sunlight when possible, while keeping your safe distance from other people. 
+- **Vykašlávejte**. 
+  - Tedy máte-li co. Kašel je zdravý reflex, kterým se naše plíce čistí.   
+  - Nepotlačujte potřebu kašlat - aspoň ne pořád. Jestli vám kašel brání ve spánku, existují volně prodejné relaxanty proti kašli. Berte je ale jen na noc. Stejnou službu můžou odvést anýzový nebo heřmánkový čaj nebo kakao. 
+  - Existují mukolytika - léky, které snižují vazkost hlenu a tedy usnadňují vykašlávání. Některá jsou volně prodejná. Ptejte se v lékárně. 
 
-- **Keep drinking**. 
-  - This is really key. Drinking enough fluids helps the lungs produce secretions, and helps those secretions it does produce be thin enough to potentially cough up. 
-  - If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
-  - How much is enough? Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water.
-   - It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
-
-- **Encourage coughing**. 
-  - Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. It's also exercise for your lungs. 
-  - Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. 
-  - Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
-
-- **Get up, stand up**. Other simple ways to try to prevent pneumonia and other lung complications from developing typically include: 
-  - Sitting upright as much as possible to help fluids drain. Do not lie flat in bed all day. 
-  - Getting up and moving periodically. Although you may be very tired (malaise) due to your illness, being upright and moving around can similarly help fluids drain. 
-  - Expanding your lungs by breathing deeply (in and out), and raising your arms (up above your head and down again). 
-  - Opening the window and breathing the fresh air, especially if breathlessness (dyspnea) is bothering you. 
-  - Exercising your fuller lung capacity by blowing up a balloon every hour (or using any other toy you might have on hand that exercises lung capacity). This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. 
+- **Žádné válení**. Mezi dlší způsoby, jak si usnadnit dýchání, patří: 
+  - Sezení vzpříma, kdykoliv to jde. Prostě neležet naplacato celý den. Pomáhá to vykašlávání. 
+  - Pravidelná chůze. Třeba pár kroků po pokoji. Stejný důvod - plíce se nám protáhnou a bude se lépe vykašlávat. 
+  - Aktivní hluboké dýchání - soustředte se na co největší expanzi vašeho hrudního koše. Co největší nádech, chvíli podržet a dlouho pomalu vydechovat. Pomůže i doprovodit nádech zvedáním rukou nad hlavu. 
+  - Pusťte si do pokoje čerstvý vzduch. Zvlášt pokud pociťujete nepříjemné zkrácení dechu. 
+  - Procvičujte si plíce - když máte sílu. Můžete třeba každou hodinu nafouknout balónek. Nespěchejte na sebe a neděste se, jestli vám to nejde. Zítra už to třeba půjde líp. Cílem je pomalu navyšovat vaši plicní kapacitu zpět k původním hodnotám. Žádné olympijské výkony. 
 
 ### Už je líp?
 
 {{ site.data.tags.breakout.begin }}
-
-If your symptoms go away, that doesn't mean you should end your quarantine immediately. You need up-to-date local information again to see whether the authorities want you to register as healed, especially if you tested positive earlier. Depending on availability and local policy, you may need to be tested again. Your local health authorities may provide you with specific advice on what to do next. If so: follow it.
+Když vás příznaky pustí, je to super a nás to moc těší. Nicméně to není důvod hned opouštět karanténu. Potřebujete zjistit, jestli se ve vašem okolí vede registr vyléčených. Pokud jste byli testováni a měli pozitivní test, zjistěte, jak se nechat otestovat znovu. Je možné, že je to přímo vyžadováno pro povolení vašeho volného pohybu. Řiďte se nařízenými postupy z lokálních médií. 
 
 {{ site.data.tags.breakout.end }}
 
-Absent of up-to-date local instructions from authorities, you should err on the side of safety and try to stay in isolation for a little longer than officially indicated. The [World Health Organization recommendation](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) is to **continue isolation for at least two weeks after symptoms disappear, even if you are no longer feeling sick**. 
+Jestli vám konkrétní instrukce chybí, zůstaňte v karanténě radši o trochu déle, než abyste hned vyběhli ven nakazit ostatní. 
+[Doporučení WHO](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) říká **zůstaňte v karanténě nejméně dva týdny po odeznění posledních příznaků a to i když se cítíte fit**. 
 
-If you managed to get tested, yay! You now know that your body *(presumably, keep watching the latest science on this)* has built immunity. Which means that this thing is over for you, and, if you are young and healthy, also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
+Podařilo se vám nechat se otestovat? Super! Vaš tělo si patrně vytvořilo protilátky *( patrně - tzn. sledujte nejnovější vědecké objevy ohledně COVID-19)*. Znamená to, že máte vyhráno. Také to znamená, že jste li mladí a silní, můžete se starat o své nemocné blízké. Oznamte svému zaměstnavateli, že už jste infekcí prošli - může to být důležité. 
