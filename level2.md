@@ -89,33 +89,33 @@ Vyhledejte informace z lokálních zdrojů. Krizové vedení vás bude informova
 
 Obecná doporučení a tipy, jak žít pohromadě, když máte podezření na infekci COVID-19: 
 - **Izolujte se doma od všeho venku...** Základem je izolovat se jako domácnost od všech, kteří s vámi nebydlí. zabráníte zavlečení infekce domů. 
-- **...a izoluje nakažené/nemocné v rámci domácnosti."** They should also keep the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. We know, it's weird and sometimes heartbreakingly hard. But this is a potentially lethal disease and the people close to you will (hopefully) understand. 
-- **Clean the kitchen faucet.** Regularly clean all frequently touched surfaces (doorknobs, light switches, table surfaces, keyboards, phones, toilet handles if in shared bathrooms, kitchen faucet handles if in shared kitchens -- you get the idea) with a regular household cleaner (e.g., Lysol, Windex), hydrogen peroxide solution, or diluted bleach (10 ml / 2 tsp bleach with half a liter / 2 cups of water; carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. Give the cleaner a minute to work on surfaces before wiping it dry. 
-- **Zvažte roušky i doma.** Your housemates might want to wear masks indoors, too. When they handle your trash or laundry, disposable gloves are also a good idea. 
+- **...a izoluje nakažené/nemocné v rámci domácnosti."** Pacient by měl být ve svém vyhrazeném prostoru sám a kontakt s ostatními by měl mít co nejmenší. Zbytek domácnosti by se měl postarat o jeho jídlo a pitný režim, aby nakažený nemusel do společné kuchyně. Pacient by také měl mít přidělené vlastní servírovací nádobí (příbory, talíře, hrnky) a pokud je to možné, užívat samostatnou koupelnu. Víme, že je to těžké, ale bezpečí ostatních by mělo být na prvním místě.  
+- **Dezinfikujte kuchyňskou linku a všechny frekventované povrchy.** Pravidelně definzikujte kliky, vypínače, konferenční stolky, klávesnice, telefony...prostě všechno, čeho se běžně dotýkáte. Hodí se na to dezinfekce z domácích potřeb, roztok peroxidu vodíku nebo hodně ředěné bělidlo (SAVO). Naředěný roztok nalijte do rozprašovače a před setřením nechte na povrchu aspoň pár vteřin. 
+- **Zvažte roušky i doma.** Na nošení roušky i doma není vůbec nic šíleného. Nemocný by ji měl mít ve 100% případů kontaktu s ostatními. Další členové domácnosti by měli mít roušku i rukavice vždy, když manipulují s odpadky nebo oblečením po nemocném.
 
-In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basics then remain the same: Try to protect other people, especially those middle-aged or older and people with existing illnesses, as much as possible. And try to minimize the spread whenever you can, as best you can. Remember: The more we can slow or stop the disease's spread, the better it is for everyone. Because by helping to slow or stop the spread, you help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care (for any reason), who are able to access it. This helps doctors and nurses save more lives. 
+Pravděpodobně i u vás nastane moment, kdy bude pandemie vrcholit a krizové vedení ztratí přehled o počtu nakažených. Půjde jen těžko říct, kdo si bojem s virem prošel, kdo virus zrovna chytil znovu, kdo jej nikdy neměl a kdo na něj zrovna umírá. Na těch základních pravidlech se ale nic nezmění: Snažte se chránit ostatní - především starší generaci a oslabené jedince. Naším společným cílem je znemožnit viru šíření, jak jen to půjde. Čím pomalejší bude šíření, tím větší bude pro nemocné dostat v plnohodnotnou lékařskou péči. 
 
-### Diary
+### Deník
 
-When symptoms first start is the right time to start an illness diary. 
+Jakmile se objeví první příznaky, nastal čas založit si deník nemocného (nemocníček). 
 
-A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
+Pravidelně několikrát denně (nejlépe ve stejné časy) si měřte a zapisujte tělesnou teplotu - ikdyž nepociťujete horečku. Máte-li možnost, jednou deně se zvažte. Taky se hodí zaznamenat dechovou frekvenci (kolikrát se nadechnete za jednu minutu) a taky tepovou frekvenci (nahmatáte na zápěstí nebo krku, počítáte jednu minutu). Chcete-li být pečliví a máte [takoměr](/shopping), přidejte do záznamu i hodnoty krevního tlaku. Věřte, že to nezabere moc času. Na začátku vám záznamy dají představu o tom, jaké jsou vaše normální hodnoty. To se hodí.
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+Další v deníku by měl být seznam symptomů, na které si nakažený stěžuje. Co bolí, jak a jak intenzivně na škále 0-10 (0=nebolí, 10=nejhorší bolest v životě). Jestli kašle, jak? Vykašlává něco? Jaké barvy? Vzal si dnes pacient nějaké léky? Kolik? 
 
-Paracetamol (also known as Tylenol or acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+Paracetamol (př. Paralen) pomáhá proti horečce a bolestem. Zápisem do deníku si udržíte přehled o tom, jestli nepřekračujede doporučená množství.
 
 [![](/assets/images/diary-small-slanted.png)](/diary)
 
-#### Printable illness diary
+#### Deník nemocného k vytisknutí
 
-We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
+Připravili jsme **[tisknutelnou verzi](/diary)**, která se hodí k zaznamenávání výše uvedených hodnot. 
 
-### Contact lenses
+### Kontaktní čočky
 
-Even when you are not that ill yet, it is much better to use glasses if you have them, and stop routinely putting in contact lenses in the morning. You do not want to touch your eyes more than you have to because they may get [infected](https://icrcat.com/en/coronavirus-and-conjunctivitis/), and if and when you do get more ill, you do not want to risk forgetting that you have them in.
+Ikdyž vám třeba není tolik zle, dejte přednost brýlím před kontaktními čočkami. Vaše imunita je teď ve válce s virem a nechcete přidat ještě oční [infekci](https://icrcat.com/en/coronavirus-and-conjunctivitis/). Navíc, kdyby se vám přitížilo, nechcete na čočky v očích zapomenout. 
 
-### Get healthy again
+### Bojujte a vyhrajte
 
 - **Treat fever with care**. 
   - Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol if you can. 
@@ -147,7 +147,7 @@ Even when you are not that ill yet, it is much better to use glasses if you have
   - Opening the window and breathing the fresh air, especially if breathlessness (dyspnea) is bothering you. 
   - Exercising your fuller lung capacity by blowing up a balloon every hour (or using any other toy you might have on hand that exercises lung capacity). This is a particularly good idea if your breathing is fast and / or you are feeling breathless. Be gentle and patient with yourself. Focus on taking deep breaths all the way in and all the way out, and remember lung capacity is like muscle strength: You can build it up by repeated exercise. 
 
-### Feeling better?
+### Už je líp?
 
 {{ site.data.tags.breakout.begin }}
 
