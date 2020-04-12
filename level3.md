@@ -55,52 +55,51 @@ Nezlehčujte svoji situaci a řekněte lidem kolem sebe, že je vám vážně zl
 
 ### Pečovatelé
 
-If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
+Pokud se o laik/člověk bez zdravotnického výcviku o někoho stará, měl by užívat všechny dostupné způsoby ochrany. Super je i improvizovaná ochrana typu pláštěnka, lyžařské brýle, štít přes obličej, rukavice (jakékoliv, ale nejlépe samozřejmě latexové na jedno použití). Před vstupem k nemocnému by měl být prostor na kontrolované nasazování a snímání ochranných prostředků. Pečovatel by měl mýt jasný postup co kdy a jak nasadit a pokaždé se ho držet. 
 
-From now on in this text, we will assume that you're the caregiver. Read ahead for signs that indicate Level 4. The purpose of care in Level 3 is also to monitor the patient more and more closely so as to catch early any signs that the patient urgently needs expert medical care. For instance: If the patient is not able to drink at least 2 liters of fluids per day, you should (kindly) insist. Dehydration is a medical condition, and without a daily minimum, you're quickly in Level 4.
+Od teď budeme předpokládat že jste pečovatel - o někoho nemocného se staráte. Přečtěte si Lever 4, ať poznáte zhoršující se situaci. Během obtíží Levelu 3 jde totiž nejdůležitější rozpoznat stav, kdy je potřeba zařídit odbornou lékařskou pomoc. Krom toho je potřeba dbát na pacientův dostatečný pitný režim a připomínat mu, že se musí napít. Dehydratace je totiž rychlou cestou do Levelu 4. 
 
-In most cases, however, the patient will improve after a few days or at most a week. Just stay with it. Once the patient gets a little better, care may be done by the patient him- or herself again. Don't be in contact any more than you have to, minimise the risk of becoming infected wherever possible. Make sure the illness diary is kept until all symptoms are gone, and quarantine is kept up until the patient has been symptom-free for 14 days. If you have been caring for the patient, self-isolate again. Your own two-week self-quarantine period now begins.
+Nicméně, ve většině případů se stav pacienta během pár dní zase zlepší. Jakmile se o sebe pacient může postarat sám, omezte kontakt. Samozřejmě je dobré se denně informovat, jestli se situace zase nezhoršila, ale přestaňte se vystavovat riziku z blízkého kontaktu. Ujistěte se, že pacient pokračuje v zaznamenávání tělesných hodnot do deníku až dokud vechny symptomy neodezní. V karanténě musí pacient zůstat ještě 14 po odeznění posledních příznaků. Pečovatel byl v kontaktu s nakaženým a musí se proto sám izolovat od ostatních - také na dva týdny od posledního setkání s nakaženým. 
 
-### Care work
+### Péče
 
-A large part of the work you are doing at this stage is care work, which may overlap with nursing but does not require specialized training. Remember that people who need help with basic self-care due to illness may be embarrassed to ask for or accept it. Be gracious. Everyone needs help sometimes. Think how to make the patient physically, mentally, and emotionally more comfortable and well; you might do this by asking yourself what you would need in their position, by watching for cues that may indicate discomfort (e.g., shivering, sweating), or by asking how you can help. 
+Vaše činnost teď obnáší práci sestry - bez zdravotnického výcviku. Nemocným může být trapno si o konktréní pomoc se základní péčí o sebe říct, přesto že jí potřebují. Proto buďte laskaví a pokud možno předvídaví. Každý z nás občas potřebuje pomoci. Přemýšlejte o situaci z pohledu nemocného a předem tipujte momenty, kdy bude potřeba vaše pomoc. Vaším cílem je zařídit, aby bylo nemocnému lépe - fyzicky i mentálně. Zamyslete se, co by vám v jeho pozici ulehčilo bytí a co by vás udrželo v optimistické náladě. Koukejte po známkách nepohodlí a snažte se mu předejít. Když si nejste jistí, zeptejte se. 
 
-Some possibly useful behaviors include:
-* Getting at eye level and at a distance that is large enough for comfort but small enough that they do not have to strain speaking loudly to talk to you. At the same time, try to put some distance between you and the patient where possible to prevent infection.
-* Simple encouragement to drink and eat. E.g., "Drink, honey." 
-* If the patient is not drinking or eating adequately, offer alternatives. E.g., if solid food is unappealing, what about soup, bouillon, or electrolyte solution? If hot drinks are unappealing, what about something cold, or vice-versa? If the patient can't feed himself / herself, could you spoon-feed him / her? 
-* Checking that the patient is warm enough in the extremities (e.g., cold feet?) and at night.
-* Setting up a fan to blow air in the patient's face can relax patients who are feeling breathless. Helping the patient breathe in a fresh breeze from an open window if possible can have the same effect. 
-* Reassure the patient that it is very likely that he or she will make a full recovery (which is true). Offer relaxation techniques (soothing music, humor, counting breaths). 
-* If breathing is labored, try breathing techniques (e.g., pursed lips or diaphragmatic breathing techniques) and positional changes (e.g., leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
-* Keeping the illness diary (see below).
+Pár tipů pro pečovatele:
+* Udržjte od pacienta oběma pohodlnou vzdálenost. Odstupte tak, aby s vámi mohl pacient pohodlně komunikovat - snadný oční kontakt (třeba od nohou postele) a zároveň aby pacient nemusel mluvit moc nahlas. Zároveň si udržujte možný odstup - nezvyšuje riziko nákazy víc, než je nutné. 
+* Upomínejte nemocného, že se musí napít (a nejlépe i najíst).
+* Pokud nejí nebo nepije, nabídněte alternativy: polévka místo tuhé stravy, nebo třeba aspoň neperlivá minerálka na doplnění elektrolytů. Nechce teplý čaj - co třeba naopak studenou vodu, nebo domácí ledový čaj? Krmte jej lžičkou, jestli je na příbor moc slabý. 
+* Kontrolujte picentovi periferní teplotu (nemá třeba studené nohy?) a zajistěte teplo i v noci, 
+* Puštěný větrák blízko postele může pomoci, když má nemocný pocit nedostatku vzduchu. Nezapomeňte místnost pravidelně větrat.
+* Udržujte optimistického ducha. Ujisťujte, že se z toho zase vyhrabe - což je v absolutní většině případů pravda. Pustě oblíbený film nebo hudbu. 
+* Pomozte s dýchacími technikami (dýchací cvičení s pacientem) a změny polohy (e.g. leaning your chest forward a little or putting your arms and head down on a table while sitting with feet flat on the floor; or sleeping on your side with a pillow between your knees, or on your back with your head elevated with a pillow or two). 
+* Veďte deník nemocného (rozvedeno níž).
 
-### Illness diary
+### Deník nemocného
 
-As mentioned in the previous section, you might want to use this [printable form](/assets/images/covid-diary.pdf), or make your own. 
+Jak už jsme nabízeli, naši tisknutelnou předlohu najdete [zde](/assets/images/covid-diary.pdf), forma ale není důležitá. 
 
-At this stage, measure the vital signs often, log them in the illness diary, and watch out especially for and note symptoms that might suggest worsening. Read the next section for more detail, but these include dizziness or rapid heart rate (drink more and eat something if you can), rapid breathing (elevate head while lying down or lower it to the table while sitting up for easier breathing), and a blue tint to fingertips or lips (cyanosis -- get fresh air, get warm, and check blood oxygenation if possible). 
+Životní funkce měřte několikrát denně a zaznamenávejte. Všímejte si změn a progrese - naznačuje něco, že se pacientovi přitěžuje? V přístím levelu budeme zmiňovat víc, v kostce ale: nevolnost - nabídněte něco k jídlu a vodu, rychlé dýchání - uveďte pacienta do polosedu, bledost/promodralost (cyanóza) - zajistěte aspoň čerstvý vzduch. 
 
-If you think the patient's condition might be worsening, your illness diary might expand to include the following: 
-- more frequent temperature readings
-- respiration rate (breaths per minute)
-- heart rate
-- onset of new confusion (if the person seems to have less mental capacity than normal)
+Pokud se vám zdá, že se pacient horší, rozšiřte záznamy v deníku o: 
+- častější měření teploty
+- dechovou frekvenci (breaths per minute)
+- srdeční tep
+- nástup zhoršeného chápání / myšlení / mluvení - blouznění a podobně
 
-If the patient's condition seems to be worsening, skip to the next section. 
+### Taška do nemocnice
 
-### Go bag
-
-If your condition deteriorates to the point that you / the patient needs to go to hospital, **you will not have time or be in the mood to think about what to pack**. So prepare beforehand a small bag with a zipper / firm closure that contains:
-* A piece of paper with, in clearly readable print:
-  * Identifying information: Name, date of birth, address
-  * Names, addresses, and telephone numbers of loved ones and next of kin
-  * ( optional: pincode to patient's cell phone )
-  * A list of any essential medications you are taking (drug, time, dose)
-  * A brief medical history, listing chronic health conditions and name(s) of doctor(s)
-* A week's supply of your essential medication, if applicable
-* Government-issued ID, or a copy of that
-* Health-ID card, health insurance card, whatever is applicable where you are
+Pro všechny případy je dobré mít zabalenou tašku toho nejnutnějšího. 
+If your condition deteriorates to the point that you / the patient needs to go to hospital, **Až bude taška potřeba, nebude čas přemýšlet, co zabalit.** Do menšího uzavíratelného zavazadla patří: 
+* Vytištěné nebo čitelně sepsané informace:
+  * Identifikace: jméno, datum narození, adresa
+  * Jména a kontakty na příbuzné a ostatní kontaktní osoby
+  * (dobrovolně i pin k mobilu )
+  * Seznam pravidelně užívaných léků (látka, kdy a kolik)
+  * Souhrn zdravotních problémů za poslední roky
+  * Jméno a kontakt na ošetřujícího lékaře
+* Týdenní zásoba užívaných léků - pokud možno
+* Kartička zdravotního pojištění
 * A set or two of simple and compact fresh clothes
 * Bath slippers (also known as flip-flops)
 * Spare glasses if available
