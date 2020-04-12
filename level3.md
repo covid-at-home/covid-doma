@@ -1,62 +1,59 @@
-## Level 3 -- Bedridden
+## Level 3 -- Nemoc na plný úvazek
 
-All the good care in Level 2 has not worked and things are getting worse. Doesn't mean you did anything wrong, just keep going. Except you're getting weaker, and you're not just coughing anymore, but you feel like absolute crap (doctors call that "general malaise"), things hurt, and you want to be in bed most of the time. It's easy to forget to eat and drink.
-
-{{ site.data.tags.breakout.begin }}
-
-Now that you are really getting ill, it's time to let your regular General Practitioner / doctor / primary care physician know if you haven't spoken to him/her already earlier. The doctor may do house visits or have a protocol to assess you over the phone or via videochat. There may be additional advice or guidelines your doctor will give you. Doctors know their patients and can tailor advice to the case at hand. So follow any advice, also if it contradicts any of the more general information given here.
-
-Ask the doctor or otherwise try to use reliable local information to see what, if anything, is expected of people with worsening symptoms where you are. The health authorities may have a website, app, or other mechanism to register a worsening of symptoms. This could be important for keeping an eye on the pandemic, but also to figure out who needs additional care.
-
-If you have no primary care doctor, you will need to seek up-to-date local information on what help is available to you. If all lines everywhere are busy -- which is certainly a possibility during the peaks of this crisis -- do not panic, just keep trying.
-
-{{ site.data.tags.breakout.end }}
-
-### Now that you are sick
-
-* **Rest**. At this point, rest is very important. Sleep as much as possible. At least in the beginning, you will still be able to get out of bed for limited amounts of time. Toilet, a quick rinse-off shower, weighing once a day (note in [diary](/assets/images/covid-diary.pdf)). Put new sheets on the bed when you can, and make sure the old sheets are washed at 60° Celsius (140° Farenheit) or warmer.
-* **Get fresh air**. Ventilate the room as often as possible. 
-* **Drink more water!** More than 2 liters and less then 5 liters a day, or at least 8.5 cups. Remember your body needs more fluids than usual when you're sweating from a fever.
-* **Eat something**. Try to eat vitamin-rich foods, but multi-vitamin drink is also ok.
-* **Use those lungs**. See Level 2 on breathing deeply in and out, moving your arms above your head to help your chest fully expand, and even exercising your lung capacity if possible by blowing up a balloon or using another toy that requires blowing every hour.
-
-### A typical day
-
-At this stage, a typical day might look something like this: 
-
-You get up, weigh, and note weight in illness diary. You might also want to take your temperature first thing, before eating or drinking, especially if you are taking temperature orally -- and note it in the illness diary, too. 
-
-Then, start drinking fluids. Not too much caffeine or sugar. As much water and herbal tea as you like. Remember you want to drink at least 2 liters (around 8.5 cups) and up to 5 liters a day. 
-
-Air out your home as much as possible, perhaps while the water for your morning tea or coffee is boiling.  If you have the energy (and enough sheets), consider changing your bed linens if they got sweaty / otherwise soiled. Next, have a quick shower if you're able. Staying clean can help you feel better mentally and emotionally, as well as physically. 
-
-Eat a small, nutritious meal (piece of fresh fruit? handful of salted nuts?) -- something that sounds good to you. This is also a good time to take paracetamol (also known as acetaminophen) for fever / pain if you really need it, and note the dose and time in your illness diary.
-
-If that was already enough exertion, take a rest. Nap whenever you can -- sleep is crucial for healing. If you're not sleepy but need to rest, then try to rest sitting up to give your lungs a better chance to drain. If you're still upright, now is a good time to steam to help your sinuses / airways open and mucus to drain. 
-
-Speaking of being upright, remember to ventilate your room and breathe in the fresh air. Lift your arms over your head to fully expand your lungs on the inhale. Try blowing up a balloon to fully exhale. 
-
-Keep drinking throughout the day. Some people find it helpful to empty and refill a liter bottle of water or a teapot that holds approximately a liter, so that it's easier to keep track of roughly how much you have drunk. This also makes it easier to keep water by the sofa or bed while you are resting. 
-
-Throughout the day, check in with yourself about fatigue (sleep as much as possible), hunger (eat small, nutritious meals), thirst (drink whenever you feel like it), and temperature (take care to keep warm enough). If you feel up to it, and only if you feel up to it, move your body (e.g., go for a short walk as long as it's still permitted where you are, or get up and dance to a favorite song). 
-
-Finally, you want to be alert to signs that your condition may be worsening and you may need more care. So after taking basic care of yourself, then check in with other people around you who know that you are really ill. Let them know how you are doing -- and if you need help, ask. Especially let someone know if you start experiencing more severe symptoms (see the next section).
-
-### The fork in the road
+Váš stav se nelepší, ikdyž jste se drželi třeba úplně všech rad. Neznamená to, že jste udělali něco špatně. Už to není jen o kašli, ale je vám celkově prostě slabo a velmi špatně. Všechno vás bolí a z postele by vás dobrovolně nikdo nedostal. Častá chyba, které teď musíte předejít, je málo přijatého jídla a hlavně tekutin. 
 
 {{ site.data.tags.breakout.begin }}
 
-Current guidance in many places is that COVID-19 patients who cannot take care of themselves (anymore) are treated elsewhere. Given that the patient's condition can worsen quickly, there are good reasons to be cared for by medically trained professionals who can keep an eye on you -- while (hopefully) having adequate protection and training to not get infected themselves. Letting the experts do it instead of staying home also protects your loved ones from infection. 
+Jestli to ještě neví, je čas informovat vašeho lékaře. Někdo někde s titulem MUDr. musí vědět, že existujete a to v nemocném stavu. Možná se ve vašem okolí provádí návštěvy, možná lékaři poskytují konzultace přes videochat. Využijte toho. Kontakt s vaším obvodním lékařem je samozřejmě plus, protože zná váš zdravotní stav a přizpůsobí vám rady na míru - popřípadě upozorní na ta obecná doporučení, která se pro vás naopak nehodí (alergie na látky ve volně prodejných lécích a podobně). 
 
-We are seeing this break down in places where there are a lot of cases, with some very ill patients deemed "not sick enough" to go to the hospital, and no other sorts of centralized quarantine facilities with medical staff (yet?) available. This text will continue assuming the COVID-19 patient needs to be cared for at home. This is not the optimal situation. If possible, you should consult with a doctor when you feel you need help before risking anyone becoming infected while they take care of you.
+Zjistěte si, jaké máte jako nemocní povinnosti - musíte se hlásit do místního registru? Nezanedbejte to, mohlo by vám to později zachránit život. Vyzpovídáním se ohledně svých symptomů také pomáháte výzkumníkům naučit se o COVID-19 co nejvíce. 
+
+Pokud nemáte obvodního lékaře, zjistěte si, jaká pomoc je k dispozici. Nepanikařte, když budou všechny linky obsazené. Jednou se dovoláte. Důležité je vytrvat. 
 
 {{ site.data.tags.breakout.end }}
 
-Tell other people around you that you are really ill and are mostly in bed. Talk to someone you trust about how they may have to take care of you. Have this person or these people read this document. If you have people in your environment who have already had COVID-19 (something that will be increasingly common as time goes on), such people would naturally make the best caregivers as they presumably will be (at least partially) COVID-19-immune. Otherwise try to judge what is wisest in your circumstances. By all means do not wait with this until the very last moment, because if the disease progresses, you will get short of breath -- which inevitably will also affect your ability to talk and think clearly. Everyone at this level, especially patients who live alone, should really have someone checking on them regularly, because the deterioration in respiratory function can be very fast, especially in the second week. 
+### Je čas soustředit se na:
+
+* **Odpočinek**. Spěte co nejvíc. Jestli to zvládáte, dejte si občas sprchu a pokud možno veďte  (note in [deník nemocného(/assets/images/covid-diary.pdf)). Jednou za čas vyměnte povlečení a použité dejte stranou, dokud jej někdo/posílení vy nebude moci vyprat na 60°C. 
+* **Čerstvý vzduch**. Otevřít si okno je dobrý nápad. 
+* **Pití!** Minimálně 2 litry a ne víc jak 5 litrů nealkoholických nápojů - nejlépy vody a čaje. Je to přibližně 8 hrnků. Vaše tělo teď potřebuje mnohem víc tekutin, protože jich taky víc vypotí.
+* **Jídlo**. Jezte něco. Nejlépe něco zdravého a lehkého, ale hlavně něco. Jestli to nejde, zkuste polknou aspoň vitamíny.
+* **Dýchání**. Rada z předchozího Levlu 2 - Soustředěné hluboké dýchání doprovázené pohybem paží. 
+
+### Typický den
+
+Normální den by teď mohl vypadat asi takhle: 
+
+Vstanete, dojdete si na záchod a postavíte se na váhu. Zapíšete si výsledek do deníku nemocného. Přidáte záznam o tělesné teplotě. Potom se pořádně napijete a třeba si uděláte čaj. Pokud možno to nepřehánějte s cukrem ani kofeinem. 
+
+Vyvětráte si - třeba než se uvaří voda na čaj. Zvažte výměnu povlečení, jestli na to máte sílu. Dáte si sprchu, protože cítit se čistě taky zlepšuje náladu. 
+
+Dáte si malou ale výživnou snídani a po ní paracetamol, je li potřeba. Nezapomeňte zapsat to deníku. 
+
+Po tomhle všem si patrně půjdete zas lehnout. Gratulujeme, že jste zvládli perfektní ranní rutinu. Teď už je to jen o odpočinku. Spánek je totiž pro uzdravení klíčový. Když zrovna nespíte, čas od času se soustřeďte na prodýchání plic. Zařaďte i napařování zmiňované v Levlu 2. Prostě pomáhejte vlastním plícím. 
+
+Mezi jedním a dalším zdřímnutím taky pijte - vodu nebo čaj. Když budete používat jednu (třeba litrovou) nádobu u postele, snáz si udržíte přehled, kolik už jste toho dnes vypili. 
+
+Behem dne si občas udělejte malou bilanci ohledně vaší únavy, nálady, hladu, žízně a teploty. Možná je vám dost dobře na to, abyste si pustili oblíbenou hudbu a prošli se po vlastním karanténím prostoru. 
+
+A hlavně, každý den jste s někým v kontaktu. Vaši blízcí možná nemají čas vás kontrolovat neustále, nicméně aspoň jednou denně by o vás měl někdo slyšet. Jak vám je a jestli se vaše situace zlepšuje nebo zhoršuje. 
+
+### Rozcestí
+
+{{ site.data.tags.breakout.begin }}
+
+Typický postup je centralizovat těžce nemocné pohromadě a to z prostých logistických důvodů. Mají větší šanci, že se jim dostane odborné pomoci. Těžce nemocný pacient navíc potřebuje takovou asistenci, při které se radikálně zvyšuje riziko nakažení jeho ošetřovatelů. Od jisté chvíle je tedy dobré přenechat to odbornéu personálu, který (doufejme) má osobní ochranné protředky a ví přesně, jak se před infekcí chránit. 
+
+Příběhy z médií ukazují kritickou situaci v mnoha oblastech, kdy ani velice nemocní pacienti nejsou z důvodů přelnění nemocnic klasifikováni jako "dostatečně nemocní k hspitalizaci". Budeme proto pracovat se scénářem, kde je nemocný stále ve svých domácích podmínkách. Samozřejmě to není ideální. Pokud potřebujete a je nějaká cesta, zajistěte si odbornou pomoc.  
+
+{{ site.data.tags.breakout.end }}
+
+Nezlehčujte svoji situaci a řekněte lidem kolem sebe, že je vám vážně zle. Řekněte si o někomu blízkému o pomoc a dejte jim přečíst tenhle text. Jestli máte ve svém okolí někoho COVID-19 vyléčeného (a takových bude čím dál víc), je to ideální kandidát. Patrně už má v krvi protilátky a nenakazíte ho. Jinak dejte přednost mladším lidem (jestli máte na výběr). Nedělejte hrdiny a řekněte si o pomoc včas. Progrese téhle nemoci totiž způsobuje zkrácený dech. Jestli se vám ještě přitíží, nebudete zrovna moc výřeční. Váš stav se navíc může výrazně zhoršit během pár hodin (zvlášť v druhém týdnu probíhající nemoci). 
+
 
 [](/assets/images/sick-in-bed.png)
 
-### Others taking care of you
+### Pečovatelé
 
 If non-medical people are going to need to take care of you (or if you need to take care of someone who is ill), make sure adequate protection is used to the extent possible. At this point, patient and caregiver need to be closer together, so use all the protection you can have: raincoat, protective glasses / face shield, gloves. Train the proper procedures for putting these on and taking them off, going through that in your head over and over again.
 
