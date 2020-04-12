@@ -100,15 +100,15 @@ If your condition deteriorates to the point that you / the patient needs to go t
   * Jméno a kontakt na ošetřujícího lékaře
 * Týdenní zásoba užívaných léků - pokud možno
 * Kartička zdravotního pojištění
-* A set or two of simple and compact fresh clothes
-* Bath slippers (also known as flip-flops)
-* Spare glasses if available
-* Toothbrush, toothpaste
-* Patient's living will document, if applicable
-* Phone charger if you have an extra
-* USB battery pack if you have one
-* Previous days of the patient illness diary
+* Set čistého oblečení (nebo dva)
+* Žabky / pantofle 
+* Náhradní brýle
+* Kartáček a zubní pasta
+* Nabíječka na mobil
+* Powerbanka máte-li
+* Deník nemocného
+* Poslední vůle, chcete-li
 
-It would be ideal to have name and date of birth readable on the outside of the bag as well.
+Ideální by bylo mít tašku viditelně označenou jménem a datem narození pacienta. 
 
-When it is time to go, remember to put glasses, phone, charger, and today's page of the illness diary in the bag before you go. Remember that there will likely be no visits allowed in hospitals during peak pandemic phases, and COVID-19 patients (and others) may be in far-away makeshift hospitals or quarantine facilities staffed with medical professionals. We put your own essential prescription medicines on the list, although they are generally provided for you by the hospital when you are in the hospital. It's just not always clear where you may be taken, or what level of care they will be able to provide, during peak pandemic times when the hospital system is likely to be overwhelmed. 
+Při odchodu přidejte pacientovy brýle, telefon a nejnovější záznam do deníku. Návštěvy budou pravděpodobně zakázané (a pacient bude možná i převezen dál od domova). Proto je dobré mít s sebou vlastní léky z domova - kvalita péče a dostupnost léků se může časem měnit. Léky vám snad budou poskytnuty nemocnicí, ale pro všechny případy je lepší mít jistotu a svou vlastní zásobu těch esenciáních, bez kterých se neobejdete. 
