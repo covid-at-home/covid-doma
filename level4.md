@@ -1,61 +1,62 @@
-## Level 4 -- Professionals Take Over
+## Level 4 -- Kdy zavolat profesionály
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should increase. At this point, your log should contain temperature, respiration, and heart rate every few hours. Be especially alert for rapidly worsening shortness of breath, rapid breathing, and low blood oxygen level, as these can be signs of developing acute respiratory distress syndrome (ARDS), which requires immediate medical attention. 
+Jestli se nemocnému přetěžuje, měření tělesných hodnot by mělo probíhat častěji. V tomhle bodě už by každý záznam do deníku měl obsahovat teplotu, dechovou frekcenci, srdeční frekvenci a to každých pár hodin. Zejména si všímejte rychle se zhoršujících potíží s dýcháním - mělkého a rychlého dechu (a pokud měříte tak i klesajícího kyslíku v krvi). Tyto příznaky mohou znamenat rozvíjející se syndrom akutní dechové tísně (ARDS), který už rozhodně vyžaduje odbornou pomoc. 
 
-You should interpret any of the following as a medical emergency:
+Důvody volat odbornou pomoc: 
 
-### Loss of consciousness
+### Ztráta vědomí
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Vědomí má různé úrovně, ztráta vědomí tudíž taky. Když nemocný ztratí vědomí, zjistěte, jestli reaguje na své vlastní jméno (a váš hlas), nebo jestli reaguje aspoň na štípnutí do ramene (na bolest), nebo jesti nereaguje vůbec. 
 
-If loss of consciousness is brief, you might (if patient quickly recovers and is fully awake again!) encourage the patient to eat and drink a bit, and freshly ventilate the room. But loss of consciousness is serious; get help.
+Když jde o rychlou epizodu, ze které se dotyčný zas zjevně rychle dostává, postarejte se o to, aby něco vypil a snědl. Možná taky vyvětrejte jeho místnost. Zavolat lékaře není od věci. Kdyby se to opakovalo, neváhejte a volejte. 
 
-### Cognitive problems / confusion
+### Těžká zmatenost
 
-You probably know the patient, so you should be able to tell without any fancy tests if and when he/she is not with it anymore. Sudden onset of confusion is trouble. Seek medical help.
+Nemocného pravděpodobně znáte a umíte rozpoznat, kdy blouzní a není duchem přítomen. Pokud tenhle stav nastane náhle (a nejen z únavy nebo ospalosti), volejte lékaře. 
 
-### Too high or too low respiration rate / shortness of breath
+### vysoká nebo nízká dechová frekvence / zkrácený dech
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Spočítejte dechovou frekvenci tak, že budete pozorovat jeho břicho popř. držet ruku na jeho hrudníku po dobu jedné minuty (tzn. hodinky či stopky v ruce druhé). Dechová frekvence by měla být mezi 12 až 20 nádechy za minutu. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+Pomáhá vyvětrat místnost a podložení polštáři do polosedu/sedu. Jestli je to monžé, zvedněte hlavu matrace. Některé spánkové pozice jsou na tyto obtíže lepší než jiné (viz Level 3). 
 
 ![](/assets/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Když pocient pociťuje výrazně zkrácený dech, zavolejte odbornou pomoc.
 
-### Low oxygen saturation
+### Nízká saturace kyslíku
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95% may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue; called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Jestli používáte oxymeter (viz [nákupní list](/shopping)): hodnota nižší než 95% může znamenat respirační problém. Kdykoliv se nemocnému **zbarví rty nebo prsty do modra** (i když jen málo, tzv. cyanoza), zavolejte lékaře. Kdykolik saturace klesne pod 96%, zajistěte čerstvý vzduch (ale pacienta udržte v teple). 
 
 ![](/assets/images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes, or lips turn less blue than this...)
+(Volejte doktora, jestli se prsty na rukou/nohou nebo rty zbarví do modra jako tady)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Když se pacientova kůže zbarví do fialova (něco jako fialové mramorování) jako na obrázku (a není to běžný stav), volejte doktora. 
 
 ![](/assets/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Velmi nízký krevní tlak
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/assets/images/covid-diary.pdf).
+Krevní tlak nižší než normálně uváděných 90 mmHg systolický a 60 mmHg diastolický je důvod k obavě. Jestli přístroj na měření tlaku máte, měřte tlak pravidelně a obě hodnoty (systolický i  diastolický tlak) zaznamenávejte do [deníku](/assets/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. 
+Jestli přístroj nemáte, zkuste změřit aspoň kapilární návrat. Zmáčkněte špičku pacientova prstu (jeho nehet) mezi vlastním palcem a ukazovákem. Jeho nehet by měl zbledonout. Změřte, jak dlouho trvá, než prst nabere původní barvu. Mělo by to trvat 1-2 vteřiny. Pokud to trvá déle, je to známka nízkého tlaku. Zaznamenejte do deníku. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow -- if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal -- again, get help.
+Častou příčinou nízkého tlaku je dehydratace. Zajistěte, aby nemocný dostatečně pil a pokud možno i jedl. Důležité je doplňovat tekutiny i minerálkami s elektrolyty - sodík a draslík. Zvlášť pokud pacient moc nejí. Typickým znakem nízkého tlaku je nevolnost. Jednejte podle toho a s nemocným příliš nemanipulujte, aby se mu neudělalo hůř. Jestli se vám zdá jeho tlak velmi nízký, nebo pokud se jeho hodnoty výzmamně liší od normálu, je absolutně v pořádku a správné volat lékařskou pomoc. 
 
-### Too high or too low heart rate
+### Vysoký nebo nízký srdeční tep
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller adults and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+Srdeční tep se měří snáz než tlak a většinou jde vysoký tep (100-110 u dospělých v klidu) dohromady s nízkým tlakem. Lidé menší postavy mívají často přirozeně vyšší tep v porovnání s vysokými jedinci. Samotný vysoký tep není akutní stav sám o sobě, může být způsobený psychicky nebo dehydratací. Relaxační techniky a doplění tekutin to mohou vyřešit. 
+Rozhodně volejte lékaře, jestli pozorujete rychlé dýchání dohromady s nízkým krevním tlakem a vysokou tepovou frekvencí. 
 
-### Very high fever that comes (back) suddenly
+### Vysoká horečka s rychlým nástupem
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (39.4° Celsius or around 103° Fahrenheit, or higher) is a cue to seek medical advice. So is a fever that goes away and then comes back suddenly. 
+Tělesná teplota se může velmi rychle změnit. Proto je důležité měřit ji pravidelně. Vysoká horečka (39.4°C a víc) je důvod volat lékaře. Stejně tak opakované velké výkyvy teploty. 
 
-### Coughing up blood
+### Vykašlávání krve
 
-This one is self-explanatory. If you notice the patient coughing up blood or blood-stained mucus, seek medical advice.
+Netřeba rozvádět. Pokud nemocný vykašává krev nebo krvavý hlen, volejte lékaře. 
 
-### Call for help
+### Zavolejte pomoc
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, paramedics / emergency medical technicians, and doctors that you are not merely panicking for no reason, and will likely help get the patient the care he or she needs sooner.
+Jestli se děje cokoliv popsaného v tomhle Levlu, situace je vážná. Pokud možno se přestaňte řídit radami z internetu. Nečekejte, až se to ještě zhorší. Zavolejte záchranku. Zachovejte chladnou hlavu a vysvětlete, co vás přimělo volat. Vaše práce je hotová, postarali jste se o nemocného. Teď se budou starat o těžce nemocného, což by ve vašich silách nebylo. Deník nemocného by měl pomoci přesvědčit záchranáře, že se stav rychle zhoršil (jeden obrázek občas vydá za tísíc slov) a nevoláte jen z paniky nebo únavy. Tzn. zajistili jste mu odbornou pomoc a tím zachránili život. 
