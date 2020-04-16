@@ -1,14 +1,14 @@
-## Level 5 -- System Overload
+## Level 5 -- Zahlcený systém
 
 ### What if the official channels are overloaded?
 
-What we're unfortunately seeing in some areas is that the system becomes stressed to a breaking point if too many people become sick at the same time. Either you cannot get through, you are told the ambulance is going to take a while, hospitals are not taking new patients at all, or some hospitals prioritize treatment of certain groups of patients (such as the relatively young and healthy) over other groups (such as the elderly and / or people with existing illnesses).
+Jak už je vidět v některých oblastech, rychlý nárůst nových případů může způsobit přehlcený zdravotnický systém. To může snižovat šanci na lékařskou péči a částečně i kvalitu péče, které se vám dostane. Hrozí, že se nebudete moci dovolat na záchranku, nebo vám dispečerka řekne, že pomoc sice přijede, ale bude to chvíli trvat. Některé nemocnice můžou přestat nabírat nové pacienty, nebo se mohou zaměřit jen na určité skupiny pacientů / typy onemocnění (jen starší pacienti / jen mladší pacienti / jen pacienti s chronickým onemocněním a podobně). 
 
-In the event that official means of getting medical help are unavailable, you might want to try to get hold of that doctor you know, the nurse down the street, anyone with medical training and / or experience. If that doesn't work, depending on the urgency, you might want to mobilize your and the patient's wider circle. Let people around you know that you have a patient who is not doing well and that you cannot get help. Ask around for doctors or nurses. For example, you might try using Facebook, a grocery store bulletin board, or any other social networking tool or technology that makes sense to you. If you have any spare time after that, organize your diary pages, making sure any doctor who has time for the patient can immediately see temperature records, etc. Try not to seem too worried around the patient, because at this point there likely isn't anything he or she is going to be able to do.
+V takových případech můžete zkusit kontaktovat svého obvodníh lékaře, nebo koliholiv se zdravotnickým výcvikem. Zkuste roznést informaci o vážném zdravotním stavu nemocného roznést po vašich i jeho společenských kruzích. Zkuste požádat o pomoc na facebooku a jiných sociálních sítích, nebo třeba i na nástěnce v supermarketu. Připravte si záznamy v deníku, aby se mohl lékař, kterého jste sehnali, rychle orientovat v situaci. Nemocného se naopak snažte nestresovat vašimi obavami o jeho stav. 
 
-If you do get through (by phone?), try to stay calm and help the doctor / hospital assess the situation quickly. 
+Když se vám podaří dovolat se na tísňovou linku, snažte se zachovat klid a stručně vysvětlit situaci.  
 
-In cases where ambulances are the bottleneck and you feel you need one, you will have to make your own judgement whether you want to try and drive to the emergency room, or wait and hope to get through. Plan which hospital you will go to before leaving, and maybe include someone who is not driving who has access to the internet to help navigate -- either in the car or on the speakerphone. Please drive safely in any case; the last thing you want is a sick patient in a car accident.
+V některých případech může být problém vytížená záchranka. Je na vás, jestli se rozhodnete podniknout cestu do nemocnice na vlastní pěst. Pokud jeďte s nemocným aspoň ve dvou (ošetřovatel a řidič). Poslední co chcete je nemocný člověk v nabouraném autě. 
 
 &nbsp;
 
@@ -16,4 +16,4 @@ In cases where ambulances are the bottleneck and you feel you need one, you will
 
 &nbsp;
 
-For now let's all hope our medical professionals can cope with the case load that is coming to them. Do your part in slowing the disease down as much as possible. Let's try to all still be there at the other end of this.
+Doufejme, že tahle situace nenastane. Když budeme předcházet šíření nákazy, bodou nové případy přibývat pomaleji a zdravotnický systém to bude zvládat. Zvyšujeme tím šanci, že se i nám dostane pomoci, když/až ji budeme potřebovat.
